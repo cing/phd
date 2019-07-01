@@ -1,0 +1,2914 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.5.23)  2 JAN 2019 11:01
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**ut-thesis.tex
+(./ut-thesis.tex
+LaTeX2e <2017-04-15>
+Babel <3.10> and hyphenation patterns for 84 language(s) loaded.
+(./ut-thesis.cls
+Document Class: ut-thesis 2012/06/01 v2.0 graduate theses at the University of 
+Toronto
+\@thesisfootnotesep=\skip41
+\@thesismarginparpush=\skip42
+(/usr/local/texlive/2017/texmf-dist/tex/latex/base/report.cls
+Document Class: report 2014/09/29 v1.4h Standard LaTeX document class
+(/usr/local/texlive/2017/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@chapter=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
+\abovecaptionskip=\skip43
+\belowcaptionskip=\skip44
+\bibindent=\dimen102
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/tools/calc.sty
+Package: calc 2014/10/28 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count88
+\calc@Bcount=\count89
+\calc@Adimen=\dimen103
+\calc@Bdimen=\dimen104
+\calc@Askip=\skip45
+\calc@Bskip=\skip46
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count90
+\calc@Cskip=\skip47
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2010/09/12 v5.6 Page Geometry
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+(/usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2017/03/15 v3.2 Provides the ifpdf switch
+)
+(/usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/ifvtex.sty
+Package: ifvtex 2016/05/16 v1.6 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+)
+(/usr/local/texlive/2017/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+\Gm@cnth=\count91
+\Gm@cntv=\count92
+\c@Gm@tempcnt=\count93
+\Gm@bindingoffset=\dimen105
+\Gm@wd@mp=\dimen106
+\Gm@odd@mp=\dimen107
+\Gm@even@mp=\dimen108
+\Gm@layoutwidth=\dimen109
+\Gm@layoutheight=\dimen110
+\Gm@layouthoffset=\dimen111
+\Gm@layoutvoffset=\dimen112
+\Gm@dimlist=\toks15
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/setspace/setspace.sty
+Package: setspace 2011/12/19 v6.7a set line spacing
+))
+(/usr/local/texlive/2017/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2017/04/05 v2.0i Standard LaTeX package
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/base/t1enc.def
+File: t1enc.def 2017/04/05 v2.0i Standard LaTeX file
+LaTeX Font Info:    Redeclaring font encoding T1 on input line 48.
+))
+(/usr/local/texlive/2017/texmf-dist/tex/latex/base/inputenc.sty
+Package: inputenc 2015/03/17 v1.2c Input encoding file
+\inpenc@prehook=\toks16
+\inpenc@posthook=\toks17
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/base/utf8.def
+File: utf8.def 2017/01/28 v1.1t UTF-8 support for inputenc
+Now handling font encoding OML ...
+... no UTF-8 mapping file for font encoding OML
+Now handling font encoding T1 ...
+... processing UTF-8 mapping file for font encoding T1
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/base/t1enc.dfu
+File: t1enc.dfu 2017/01/28 v1.1t UTF-8 support for inputenc
+   defining Unicode char U+00A0 (decimal 160)
+   defining Unicode char U+00A1 (decimal 161)
+   defining Unicode char U+00A3 (decimal 163)
+   defining Unicode char U+00AB (decimal 171)
+   defining Unicode char U+00AD (decimal 173)
+   defining Unicode char U+00BB (decimal 187)
+   defining Unicode char U+00BF (decimal 191)
+   defining Unicode char U+00C0 (decimal 192)
+   defining Unicode char U+00C1 (decimal 193)
+   defining Unicode char U+00C2 (decimal 194)
+   defining Unicode char U+00C3 (decimal 195)
+   defining Unicode char U+00C4 (decimal 196)
+   defining Unicode char U+00C5 (decimal 197)
+   defining Unicode char U+00C6 (decimal 198)
+   defining Unicode char U+00C7 (decimal 199)
+   defining Unicode char U+00C8 (decimal 200)
+   defining Unicode char U+00C9 (decimal 201)
+   defining Unicode char U+00CA (decimal 202)
+   defining Unicode char U+00CB (decimal 203)
+   defining Unicode char U+00CC (decimal 204)
+   defining Unicode char U+00CD (decimal 205)
+   defining Unicode char U+00CE (decimal 206)
+   defining Unicode char U+00CF (decimal 207)
+   defining Unicode char U+00D0 (decimal 208)
+   defining Unicode char U+00D1 (decimal 209)
+   defining Unicode char U+00D2 (decimal 210)
+   defining Unicode char U+00D3 (decimal 211)
+   defining Unicode char U+00D4 (decimal 212)
+   defining Unicode char U+00D5 (decimal 213)
+   defining Unicode char U+00D6 (decimal 214)
+   defining Unicode char U+00D8 (decimal 216)
+   defining Unicode char U+00D9 (decimal 217)
+   defining Unicode char U+00DA (decimal 218)
+   defining Unicode char U+00DB (decimal 219)
+   defining Unicode char U+00DC (decimal 220)
+   defining Unicode char U+00DD (decimal 221)
+   defining Unicode char U+00DE (decimal 222)
+   defining Unicode char U+00DF (decimal 223)
+   defining Unicode char U+00E0 (decimal 224)
+   defining Unicode char U+00E1 (decimal 225)
+   defining Unicode char U+00E2 (decimal 226)
+   defining Unicode char U+00E3 (decimal 227)
+   defining Unicode char U+00E4 (decimal 228)
+   defining Unicode char U+00E5 (decimal 229)
+   defining Unicode char U+00E6 (decimal 230)
+   defining Unicode char U+00E7 (decimal 231)
+   defining Unicode char U+00E8 (decimal 232)
+   defining Unicode char U+00E9 (decimal 233)
+   defining Unicode char U+00EA (decimal 234)
+   defining Unicode char U+00EB (decimal 235)
+   defining Unicode char U+00EC (decimal 236)
+   defining Unicode char U+00ED (decimal 237)
+   defining Unicode char U+00EE (decimal 238)
+   defining Unicode char U+00EF (decimal 239)
+   defining Unicode char U+00F0 (decimal 240)
+   defining Unicode char U+00F1 (decimal 241)
+   defining Unicode char U+00F2 (decimal 242)
+   defining Unicode char U+00F3 (decimal 243)
+   defining Unicode char U+00F4 (decimal 244)
+   defining Unicode char U+00F5 (decimal 245)
+   defining Unicode char U+00F6 (decimal 246)
+   defining Unicode char U+00F8 (decimal 248)
+   defining Unicode char U+00F9 (decimal 249)
+   defining Unicode char U+00FA (decimal 250)
+   defining Unicode char U+00FB (decimal 251)
+   defining Unicode char U+00FC (decimal 252)
+   defining Unicode char U+00FD (decimal 253)
+   defining Unicode char U+00FE (decimal 254)
+   defining Unicode char U+00FF (decimal 255)
+   defining Unicode char U+0100 (decimal 256)
+   defining Unicode char U+0101 (decimal 257)
+   defining Unicode char U+0102 (decimal 258)
+   defining Unicode char U+0103 (decimal 259)
+   defining Unicode char U+0104 (decimal 260)
+   defining Unicode char U+0105 (decimal 261)
+   defining Unicode char U+0106 (decimal 262)
+   defining Unicode char U+0107 (decimal 263)
+   defining Unicode char U+0108 (decimal 264)
+   defining Unicode char U+0109 (decimal 265)
+   defining Unicode char U+010A (decimal 266)
+   defining Unicode char U+010B (decimal 267)
+   defining Unicode char U+010C (decimal 268)
+   defining Unicode char U+010D (decimal 269)
+   defining Unicode char U+010E (decimal 270)
+   defining Unicode char U+010F (decimal 271)
+   defining Unicode char U+0110 (decimal 272)
+   defining Unicode char U+0111 (decimal 273)
+   defining Unicode char U+0112 (decimal 274)
+   defining Unicode char U+0113 (decimal 275)
+   defining Unicode char U+0114 (decimal 276)
+   defining Unicode char U+0115 (decimal 277)
+   defining Unicode char U+0116 (decimal 278)
+   defining Unicode char U+0117 (decimal 279)
+   defining Unicode char U+0118 (decimal 280)
+   defining Unicode char U+0119 (decimal 281)
+   defining Unicode char U+011A (decimal 282)
+   defining Unicode char U+011B (decimal 283)
+   defining Unicode char U+011C (decimal 284)
+   defining Unicode char U+011D (decimal 285)
+   defining Unicode char U+011E (decimal 286)
+   defining Unicode char U+011F (decimal 287)
+   defining Unicode char U+0120 (decimal 288)
+   defining Unicode char U+0121 (decimal 289)
+   defining Unicode char U+0122 (decimal 290)
+   defining Unicode char U+0123 (decimal 291)
+   defining Unicode char U+0124 (decimal 292)
+   defining Unicode char U+0125 (decimal 293)
+   defining Unicode char U+0128 (decimal 296)
+   defining Unicode char U+0129 (decimal 297)
+   defining Unicode char U+012A (decimal 298)
+   defining Unicode char U+012B (decimal 299)
+   defining Unicode char U+012C (decimal 300)
+   defining Unicode char U+012D (decimal 301)
+   defining Unicode char U+012E (decimal 302)
+   defining Unicode char U+012F (decimal 303)
+   defining Unicode char U+0130 (decimal 304)
+   defining Unicode char U+0131 (decimal 305)
+   defining Unicode char U+0132 (decimal 306)
+   defining Unicode char U+0133 (decimal 307)
+   defining Unicode char U+0134 (decimal 308)
+   defining Unicode char U+0135 (decimal 309)
+   defining Unicode char U+0136 (decimal 310)
+   defining Unicode char U+0137 (decimal 311)
+   defining Unicode char U+0139 (decimal 313)
+   defining Unicode char U+013A (decimal 314)
+   defining Unicode char U+013B (decimal 315)
+   defining Unicode char U+013C (decimal 316)
+   defining Unicode char U+013D (decimal 317)
+   defining Unicode char U+013E (decimal 318)
+   defining Unicode char U+0141 (decimal 321)
+   defining Unicode char U+0142 (decimal 322)
+   defining Unicode char U+0143 (decimal 323)
+   defining Unicode char U+0144 (decimal 324)
+   defining Unicode char U+0145 (decimal 325)
+   defining Unicode char U+0146 (decimal 326)
+   defining Unicode char U+0147 (decimal 327)
+   defining Unicode char U+0148 (decimal 328)
+   defining Unicode char U+014A (decimal 330)
+   defining Unicode char U+014B (decimal 331)
+   defining Unicode char U+014C (decimal 332)
+   defining Unicode char U+014D (decimal 333)
+   defining Unicode char U+014E (decimal 334)
+   defining Unicode char U+014F (decimal 335)
+   defining Unicode char U+0150 (decimal 336)
+   defining Unicode char U+0151 (decimal 337)
+   defining Unicode char U+0152 (decimal 338)
+   defining Unicode char U+0153 (decimal 339)
+   defining Unicode char U+0154 (decimal 340)
+   defining Unicode char U+0155 (decimal 341)
+   defining Unicode char U+0156 (decimal 342)
+   defining Unicode char U+0157 (decimal 343)
+   defining Unicode char U+0158 (decimal 344)
+   defining Unicode char U+0159 (decimal 345)
+   defining Unicode char U+015A (decimal 346)
+   defining Unicode char U+015B (decimal 347)
+   defining Unicode char U+015C (decimal 348)
+   defining Unicode char U+015D (decimal 349)
+   defining Unicode char U+015E (decimal 350)
+   defining Unicode char U+015F (decimal 351)
+   defining Unicode char U+0160 (decimal 352)
+   defining Unicode char U+0161 (decimal 353)
+   defining Unicode char U+0162 (decimal 354)
+   defining Unicode char U+0163 (decimal 355)
+   defining Unicode char U+0164 (decimal 356)
+   defining Unicode char U+0165 (decimal 357)
+   defining Unicode char U+0168 (decimal 360)
+   defining Unicode char U+0169 (decimal 361)
+   defining Unicode char U+016A (decimal 362)
+   defining Unicode char U+016B (decimal 363)
+   defining Unicode char U+016C (decimal 364)
+   defining Unicode char U+016D (decimal 365)
+   defining Unicode char U+016E (decimal 366)
+   defining Unicode char U+016F (decimal 367)
+   defining Unicode char U+0170 (decimal 368)
+   defining Unicode char U+0171 (decimal 369)
+   defining Unicode char U+0172 (decimal 370)
+   defining Unicode char U+0173 (decimal 371)
+   defining Unicode char U+0174 (decimal 372)
+   defining Unicode char U+0175 (decimal 373)
+   defining Unicode char U+0176 (decimal 374)
+   defining Unicode char U+0177 (decimal 375)
+   defining Unicode char U+0178 (decimal 376)
+   defining Unicode char U+0179 (decimal 377)
+   defining Unicode char U+017A (decimal 378)
+   defining Unicode char U+017B (decimal 379)
+   defining Unicode char U+017C (decimal 380)
+   defining Unicode char U+017D (decimal 381)
+   defining Unicode char U+017E (decimal 382)
+   defining Unicode char U+01CD (decimal 461)
+   defining Unicode char U+01CE (decimal 462)
+   defining Unicode char U+01CF (decimal 463)
+   defining Unicode char U+01D0 (decimal 464)
+   defining Unicode char U+01D1 (decimal 465)
+   defining Unicode char U+01D2 (decimal 466)
+   defining Unicode char U+01D3 (decimal 467)
+   defining Unicode char U+01D4 (decimal 468)
+   defining Unicode char U+01E2 (decimal 482)
+   defining Unicode char U+01E3 (decimal 483)
+   defining Unicode char U+01E6 (decimal 486)
+   defining Unicode char U+01E7 (decimal 487)
+   defining Unicode char U+01E8 (decimal 488)
+   defining Unicode char U+01E9 (decimal 489)
+   defining Unicode char U+01EA (decimal 490)
+   defining Unicode char U+01EB (decimal 491)
+   defining Unicode char U+01F0 (decimal 496)
+   defining Unicode char U+01F4 (decimal 500)
+   defining Unicode char U+01F5 (decimal 501)
+   defining Unicode char U+0218 (decimal 536)
+   defining Unicode char U+0219 (decimal 537)
+   defining Unicode char U+021A (decimal 538)
+   defining Unicode char U+021B (decimal 539)
+   defining Unicode char U+0232 (decimal 562)
+   defining Unicode char U+0233 (decimal 563)
+   defining Unicode char U+1E02 (decimal 7682)
+   defining Unicode char U+1E03 (decimal 7683)
+   defining Unicode char U+200C (decimal 8204)
+   defining Unicode char U+2010 (decimal 8208)
+   defining Unicode char U+2011 (decimal 8209)
+   defining Unicode char U+2012 (decimal 8210)
+   defining Unicode char U+2013 (decimal 8211)
+   defining Unicode char U+2014 (decimal 8212)
+   defining Unicode char U+2015 (decimal 8213)
+   defining Unicode char U+2018 (decimal 8216)
+   defining Unicode char U+2019 (decimal 8217)
+   defining Unicode char U+201A (decimal 8218)
+   defining Unicode char U+201C (decimal 8220)
+   defining Unicode char U+201D (decimal 8221)
+   defining Unicode char U+201E (decimal 8222)
+   defining Unicode char U+2030 (decimal 8240)
+   defining Unicode char U+2031 (decimal 8241)
+   defining Unicode char U+2039 (decimal 8249)
+   defining Unicode char U+203A (decimal 8250)
+   defining Unicode char U+2423 (decimal 9251)
+   defining Unicode char U+1E20 (decimal 7712)
+   defining Unicode char U+1E21 (decimal 7713)
+)
+Now handling font encoding OT1 ...
+... processing UTF-8 mapping file for font encoding OT1
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/base/ot1enc.dfu
+File: ot1enc.dfu 2017/01/28 v1.1t UTF-8 support for inputenc
+   defining Unicode char U+00A0 (decimal 160)
+   defining Unicode char U+00A1 (decimal 161)
+   defining Unicode char U+00A3 (decimal 163)
+   defining Unicode char U+00AD (decimal 173)
+   defining Unicode char U+00B8 (decimal 184)
+   defining Unicode char U+00BF (decimal 191)
+   defining Unicode char U+00C5 (decimal 197)
+   defining Unicode char U+00C6 (decimal 198)
+   defining Unicode char U+00D8 (decimal 216)
+   defining Unicode char U+00DF (decimal 223)
+   defining Unicode char U+00E6 (decimal 230)
+   defining Unicode char U+00EC (decimal 236)
+   defining Unicode char U+00ED (decimal 237)
+   defining Unicode char U+00EE (decimal 238)
+   defining Unicode char U+00EF (decimal 239)
+   defining Unicode char U+00F8 (decimal 248)
+   defining Unicode char U+0131 (decimal 305)
+   defining Unicode char U+0141 (decimal 321)
+   defining Unicode char U+0142 (decimal 322)
+   defining Unicode char U+0152 (decimal 338)
+   defining Unicode char U+0153 (decimal 339)
+   defining Unicode char U+0174 (decimal 372)
+   defining Unicode char U+0175 (decimal 373)
+   defining Unicode char U+0176 (decimal 374)
+   defining Unicode char U+0177 (decimal 375)
+   defining Unicode char U+0218 (decimal 536)
+   defining Unicode char U+0219 (decimal 537)
+   defining Unicode char U+021A (decimal 538)
+   defining Unicode char U+021B (decimal 539)
+   defining Unicode char U+2013 (decimal 8211)
+   defining Unicode char U+2014 (decimal 8212)
+   defining Unicode char U+2018 (decimal 8216)
+   defining Unicode char U+2019 (decimal 8217)
+   defining Unicode char U+201C (decimal 8220)
+   defining Unicode char U+201D (decimal 8221)
+)
+Now handling font encoding OMS ...
+... processing UTF-8 mapping file for font encoding OMS
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/base/omsenc.dfu
+File: omsenc.dfu 2017/01/28 v1.1t UTF-8 support for inputenc
+   defining Unicode char U+00A7 (decimal 167)
+   defining Unicode char U+00B6 (decimal 182)
+   defining Unicode char U+00B7 (decimal 183)
+   defining Unicode char U+2020 (decimal 8224)
+   defining Unicode char U+2021 (decimal 8225)
+   defining Unicode char U+2022 (decimal 8226)
+)
+Now handling font encoding OMX ...
+... no UTF-8 mapping file for font encoding OMX
+Now handling font encoding U ...
+... no UTF-8 mapping file for font encoding U
+   defining Unicode char U+00A9 (decimal 169)
+   defining Unicode char U+00AA (decimal 170)
+   defining Unicode char U+00AE (decimal 174)
+   defining Unicode char U+00BA (decimal 186)
+   defining Unicode char U+02C6 (decimal 710)
+   defining Unicode char U+02DC (decimal 732)
+   defining Unicode char U+200C (decimal 8204)
+   defining Unicode char U+2026 (decimal 8230)
+   defining Unicode char U+2122 (decimal 8482)
+   defining Unicode char U+2423 (decimal 9251)
+))
+(/usr/local/texlive/2017/texmf-dist/tex/generic/babel/babel.sty
+Package: babel 2017/05/19 3.10 The Babel package
+
+(/usr/local/texlive/2017/texmf-dist/tex/generic/babel-english/english.ldf
+Language: english 2017/01/24 v3.3q English support from the babel system
+
+(/usr/local/texlive/2017/texmf-dist/tex/generic/babel/babel.def
+File: babel.def 2017/05/19 3.10 Babel common definitions
+\babel@savecnt=\count94
+\U@D=\dimen113
+)
+\l@canadian = a dialect from \language\l@american 
+\l@australian = a dialect from \language\l@british 
+\l@newzealand = a dialect from \language\l@british 
+))
+(/usr/local/texlive/2017/texmf-dist/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2017/03/14 v6.85a Hypertext links for LaTeX
+
+(/usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/hobsub-hyperref.sty
+Package: hobsub-hyperref 2016/05/16 v1.14 Bundle oberdiek, subset hyperref (HO)
+
+
+(/usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/hobsub-generic.sty
+Package: hobsub-generic 2016/05/16 v1.14 Bundle oberdiek, subset generic (HO)
+Package: hobsub 2016/05/16 v1.14 Construct package bundles (HO)
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+Package hobsub Info: Skipping package `ifvtex' (already loaded).
+Package: intcalc 2016/05/16 v1.2 Expandable calculations with integers (HO)
+Package hobsub Info: Skipping package `ifpdf' (already loaded).
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+Package: pdftexcmds 2017/03/19 v0.25 Utility functions of pdfTeX for LuaTeX (HO
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+Package: pdfescape 2016/05/16 v1.14 Implements pdfTeX's escape features (HO)
+Package: bigintcalc 2016/05/16 v1.4 Expandable calculations on big integers (HO
+)
+Package: bitset 2016/05/16 v1.2 Handle bit-vector datatype (HO)
+Package: uniquecounter 2016/05/16 v1.3 Provide unlimited unique counter (HO)
+)
+Package hobsub Info: Skipping package `hobsub' (already loaded).
+Package: letltxmacro 2016/05/16 v1.5 Let assignment for LaTeX macros (HO)
+Package: hopatch 2016/05/16 v1.3 Wrapper for package hooks (HO)
+Package: xcolor-patch 2016/05/16 xcolor patch
+Package: atveryend 2016/05/16 v1.9 Hooks at the very end of document (HO)
+Package atveryend Info: \enddocument detected (standard20110627).
+Package: atbegshi 2016/06/09 v1.18 At begin shipout hook (HO)
+Package: refcount 2016/05/16 v3.5 Data extraction from label references (HO)
+Package: hycolor 2016/05/16 v1.8 Color options for hyperref/bookmark (HO)
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/oberdiek/auxhook.sty
+Package: auxhook 2016/05/16 v1.4 Hooks for auxiliary files (HO)
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+)
+\@linkdim=\dimen114
+\Hy@linkcounter=\count95
+\Hy@pagecounter=\count96
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2017/03/14 v6.85a Hyperref: PDFDocEncoding definition (HO)
+Now handling font encoding PD1 ...
+... no UTF-8 mapping file for font encoding PD1
+)
+\Hy@SavedSpaceFactor=\count97
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/latexconfig/hyperref.cfg
+File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
+)
+Package hyperref Info: Hyper figures OFF on input line 4498.
+Package hyperref Info: Link nesting OFF on input line 4503.
+Package hyperref Info: Hyper index ON on input line 4506.
+Package hyperref Info: Plain pages OFF on input line 4513.
+Package hyperref Info: Backreferencing OFF on input line 4518.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4751.
+\c@Hy@tempcnt=\count98
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip10
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 5104.
+\XeTeXLinkMargin=\dimen115
+\Fld@menulength=\count99
+\Field@Width=\dimen116
+\Fld@charsize=\dimen117
+Package hyperref Info: Hyper figures OFF on input line 6358.
+Package hyperref Info: Link nesting OFF on input line 6363.
+Package hyperref Info: Hyper index ON on input line 6366.
+Package hyperref Info: backreferencing OFF on input line 6373.
+Package hyperref Info: Link coloring OFF on input line 6378.
+Package hyperref Info: Link coloring with OCG OFF on input line 6383.
+Package hyperref Info: PDF/A mode OFF on input line 6388.
+LaTeX Info: Redefining \ref on input line 6428.
+LaTeX Info: Redefining \pageref on input line 6432.
+\Hy@abspage=\count100
+\c@Item=\count101
+\c@Hfootnote=\count102
+)
+
+Package hyperref Message: Driver (autodetected): hpdftex.
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/hyperref/hpdftex.def
+File: hpdftex.def 2017/03/14 v6.85a Hyperref driver for pdfTeX
+\Fld@listcount=\count103
+\c@bookmark@seq@number=\count104
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/oberdiek/rerunfilecheck.sty
+Package: rerunfilecheck 2016/05/16 v1.8 Rerun checks for auxiliary files (HO)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+82.
+)
+\Hy@SectionHShift=\skip48
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/underscore/underscore.sty
+Package: underscore 2006/09/13
+LaTeX Info: Redefining \_ on input line 42.
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/biblatex/biblatex.sty
+Package: biblatex 2016/12/05 v3.7 programmable bibliographies (PK/JW/AB)
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+Package: etoolbox 2017/01/02 v2.4 e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count105
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/logreq/logreq.sty
+Package: logreq 2010/08/04 v1.0 xml request logger
+\lrq@indent=\count106
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/logreq/logreq.def
+File: logreq.def 2010/08/04 v1.0 logreq spec v1.0
+))
+(/usr/local/texlive/2017/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+)
+(/usr/local/texlive/2017/texmf-dist/tex/generic/xstring/xstring.sty
+(/usr/local/texlive/2017/texmf-dist/tex/generic/xstring/xstring.tex
+\@xs@message=\write3
+\integerpart=\count107
+\decimalpart=\count108
+)
+Package: xstring 2013/10/13  v1.7c  String manipulations (C Tellechea)
+)
+\c@tabx@nest=\count109
+\c@listtotal=\count110
+\c@listcount=\count111
+\c@liststart=\count112
+\c@liststop=\count113
+\c@citecount=\count114
+\c@citetotal=\count115
+\c@multicitecount=\count116
+\c@multicitetotal=\count117
+\c@instcount=\count118
+\c@maxnames=\count119
+\c@minnames=\count120
+\c@maxitems=\count121
+\c@minitems=\count122
+\c@citecounter=\count123
+\c@savedcitecounter=\count124
+\c@uniquelist=\count125
+\c@uniquename=\count126
+\c@refsection=\count127
+\c@refsegment=\count128
+\c@maxextratitle=\count129
+\c@maxextratitleyear=\count130
+\c@maxextrayear=\count131
+\c@maxextraalpha=\count132
+\c@abbrvpenalty=\count133
+\c@highnamepenalty=\count134
+\c@lownamepenalty=\count135
+\c@maxparens=\count136
+\c@parenlevel=\count137
+\blx@tempcnta=\count138
+\blx@tempcntb=\count139
+\blx@tempcntc=\count140
+\blx@maxsection=\count141
+\blx@maxsegment@0=\count142
+\blx@notetype=\count143
+\blx@parenlevel@text=\count144
+\blx@parenlevel@foot=\count145
+\blx@sectionciteorder@0=\count146
+\labelnumberwidth=\skip49
+\labelalphawidth=\skip50
+\biblabelsep=\skip51
+\bibitemsep=\skip52
+\bibnamesep=\skip53
+\bibinitsep=\skip54
+\bibparsep=\skip55
+\bibhang=\skip56
+\blx@bcfin=\read1
+\blx@bcfout=\write4
+\c@mincomprange=\count147
+\c@maxcomprange=\count148
+\c@mincompwidth=\count149
+Package biblatex Info: Trying to load biblatex default data model...
+Package biblatex Info: ... file 'blx-dm.def' found.
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/biblatex/blx-dm.def)
+Package biblatex Info: Trying to load biblatex style data model...
+Package biblatex Info: ... file 'phys.dbx' not found.
+Package biblatex Info: Trying to load biblatex custom data model...
+Package biblatex Info: ... file 'biblatex-dm.cfg' not found.
+\c@afterword=\count150
+\c@savedafterword=\count151
+\c@annotator=\count152
+\c@savedannotator=\count153
+\c@author=\count154
+\c@savedauthor=\count155
+\c@bookauthor=\count156
+\c@savedbookauthor=\count157
+\c@commentator=\count158
+\c@savedcommentator=\count159
+\c@editor=\count160
+\c@savededitor=\count161
+\c@editora=\count162
+\c@savededitora=\count163
+\c@editorb=\count164
+\c@savededitorb=\count165
+\c@editorc=\count166
+\c@savededitorc=\count167
+\c@foreword=\count168
+\c@savedforeword=\count169
+\c@holder=\count170
+\c@savedholder=\count171
+\c@introduction=\count172
+\c@savedintroduction=\count173
+\c@namea=\count174
+\c@savednamea=\count175
+\c@nameb=\count176
+\c@savednameb=\count177
+\c@namec=\count178
+\c@savednamec=\count179
+\c@translator=\count180
+\c@savedtranslator=\count181
+\c@shortauthor=\count182
+\c@savedshortauthor=\count183
+\c@shorteditor=\count184
+\c@savedshorteditor=\count185
+\c@labelname=\count186
+\c@savedlabelname=\count187
+\c@institution=\count188
+\c@savedinstitution=\count189
+\c@lista=\count190
+\c@savedlista=\count191
+\c@listb=\count192
+\c@savedlistb=\count193
+\c@listc=\count194
+\c@savedlistc=\count195
+\c@listd=\count196
+\c@savedlistd=\count197
+\c@liste=\count198
+\c@savedliste=\count199
+\c@listf=\count266
+\c@savedlistf=\count267
+\c@location=\count268
+\c@savedlocation=\count269
+\c@organization=\count270
+\c@savedorganization=\count271
+\c@origlocation=\count272
+\c@savedoriglocation=\count273
+\c@origpublisher=\count274
+\c@savedorigpublisher=\count275
+\c@publisher=\count276
+\c@savedpublisher=\count277
+\c@language=\count278
+\c@savedlanguage=\count279
+\c@pageref=\count280
+\c@savedpageref=\count281
+\shorthandwidth=\skip57
+\shortjournalwidth=\skip58
+\shortserieswidth=\skip59
+\shorttitlewidth=\skip60
+\shortauthorwidth=\skip61
+\shorteditorwidth=\skip62
+Package biblatex Info: Trying to load compatibility code...
+Package biblatex Info: ... file 'blx-compat.def' found.
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/biblatex/blx-compat.def
+File: blx-compat.def 2016/12/05 v3.7 biblatex compatibility (PK/JW/AB)
+)
+Package biblatex Info: Trying to load generic definitions...
+Package biblatex Info: ... file 'biblatex.def' found.
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/biblatex/biblatex.def
+File: biblatex.def 2016/12/05 v3.7 biblatex compatibility (PK/JW/AB)
+\c@textcitecount=\count282
+\c@textcitetotal=\count283
+\c@textcitemaxnames=\count284
+\c@biburlnumpenalty=\count285
+\c@biburlucpenalty=\count286
+\c@biburllcpenalty=\count287
+\c@smartand=\count288
+)
+Package biblatex Info: Trying to load bibliography style 'phys'...
+Package biblatex Info: ... file 'phys.bbx' found.
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/biblatex-phys/phys.bbx
+File: phys.bbx 2016/08/23 v1.0b biblatex bibliography style
+Package biblatex Info: Trying to load bibliography style 'numeric-comp'...
+Package biblatex Info: ... file 'numeric-comp.bbx' found.
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/biblatex/bbx/numeric-comp.bbx
+File: numeric-comp.bbx 2016/12/05 v3.7 biblatex bibliography style (PK/JW/AB)
+Package biblatex Info: Trying to load bibliography style 'numeric'...
+Package biblatex Info: ... file 'numeric.bbx' found.
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/biblatex/bbx/numeric.bbx
+File: numeric.bbx 2016/12/05 v3.7 biblatex bibliography style (PK/JW/AB)
+Package biblatex Info: Trying to load bibliography style 'standard'...
+Package biblatex Info: ... file 'standard.bbx' found.
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/biblatex/bbx/standard.bbx
+File: standard.bbx 2016/12/05 v3.7 biblatex bibliography style (PK/JW/AB)
+\c@bbx:relatedcount=\count289
+\c@bbx:relatedtotal=\count290
+))))
+Package biblatex Info: Trying to load citation style 'phys'...
+Package biblatex Info: ... file 'phys.cbx' found.
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/biblatex-phys/phys.cbx
+File: phys.cbx 2016/08/23 v1.0b biblatex citation style
+Package biblatex Info: Trying to load citation style 'numeric-comp'...
+Package biblatex Info: ... file 'numeric-comp.cbx' found.
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/biblatex/cbx/numeric-comp.cbx
+File: numeric-comp.cbx 2016/12/05 v3.7 biblatex citation style (PK/JW/AB)
+\c@cbx@tempcnta=\count291
+\c@cbx@tempcntb=\count292
+Package biblatex Info: Redefining '\cite'.
+Package biblatex Info: Redefining '\parencite'.
+Package biblatex Info: Redefining '\footcite'.
+Package biblatex Info: Redefining '\footcitetext'.
+Package biblatex Info: Redefining '\smartcite'.
+Package biblatex Info: Redefining '\supercite'.
+Package biblatex Info: Redefining '\textcite'.
+Package biblatex Info: Redefining '\textcites'.
+Package biblatex Info: Redefining '\cites'.
+Package biblatex Info: Redefining '\parencites'.
+Package biblatex Info: Redefining '\smartcites'.
+))
+Package biblatex Info: Trying to load configuration file...
+Package biblatex Info: ... file 'biblatex.cfg' found.
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/biblatex/biblatex.cfg
+File: biblatex.cfg 
+))
+(/usr/local/texlive/2017/texmf-dist/tex/latex/sidecap/sidecap.sty
+Package: sidecap 2003/06/06 v1.6f SideCap Package (RN/HjG)
+\SC@BOXWD=\dimen118
+\SC@CAPWD=\dimen119
+\SC@tempdima=\dimen120
+\SC@tempdimb=\dimen121
+\c@SC@C=\count293
+\SC@BOX=\box26
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/caption/caption.sty
+Package: caption 2016/02/21 v3.3-144 Customizing captions (AR)
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/caption/caption3.sty
+Package: caption3 2016/05/22 v1.7-166 caption3 kernel (AR)
+Package caption3 Info: TeX engine: e-TeX on input line 67.
+\captionmargin=\dimen122
+\captionmargin@=\dimen123
+\captionwidth=\dimen124
+\caption@tempdima=\dimen125
+\caption@indent=\dimen126
+\caption@parindent=\dimen127
+\caption@hangindent=\dimen128
+)
+\c@ContinuedFloat=\count294
+Package caption Info: hyperref package is loaded.
+Package caption Info: sidecap package is loaded.
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2017/04/14 v1.1b Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 99.
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2017/01/12 v0.06k Graphics/color for pdfTeX
+\Gread@gobject=\count295
+))
+\Gin@req@height=\dimen129
+\Gin@req@width=\dimen130
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/booktabs/booktabs.sty
+Package: booktabs 2016/04/27 v1.618033 publication quality tables
+\heavyrulewidth=\dimen131
+\lightrulewidth=\dimen132
+\cmidrulewidth=\dimen133
+\belowrulesep=\dimen134
+\belowbottomsep=\dimen135
+\aboverulesep=\dimen136
+\abovetopsep=\dimen137
+\cmidrulesep=\dimen138
+\cmidrulekern=\dimen139
+\defaultaddspace=\dimen140
+\@cmidla=\count296
+\@cmidlb=\count297
+\@aboverulesep=\dimen141
+\@belowrulesep=\dimen142
+\@thisruleclass=\count298
+\@lastruleclass=\count299
+\@thisrulewidth=\dimen143
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/cleveref/cleveref.sty
+Package: cleveref 2013/12/28 v0.19 Intelligent cross-referencing
+Package cleveref Info: `hyperref' support loaded on input line 2230.
+LaTeX Info: Redefining \cref on input line 2230.
+LaTeX Info: Redefining \Cref on input line 2230.
+LaTeX Info: Redefining \crefrange on input line 2230.
+LaTeX Info: Redefining \Crefrange on input line 2230.
+LaTeX Info: Redefining \cpageref on input line 2230.
+LaTeX Info: Redefining \Cpageref on input line 2230.
+LaTeX Info: Redefining \cpagerefrange on input line 2230.
+LaTeX Info: Redefining \Cpagerefrange on input line 2230.
+LaTeX Info: Redefining \labelcref on input line 2230.
+LaTeX Info: Redefining \labelcpageref on input line 2230.
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/threeparttable/threeparttable.sty
+Package: threeparttable 2003/06/13  v 3.0
+\@tempboxb=\box27
+) (/usr/local/texlive/2017/texmf-dist/tex/latex/colortbl/colortbl.sty
+Package: colortbl 2012/02/13 v1.0a Color table columns (DPC)
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/tools/array.sty
+Package: array 2016/10/06 v2.4d Tabular extension package (FMi)
+\col@sep=\dimen144
+\extrarowheight=\dimen145
+\NC@list=\toks18
+\extratabsurround=\skip63
+\backup@length=\skip64
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/graphics/color.sty
+Package: color 2016/07/10 v1.1e Standard LaTeX Color (DPC)
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package color Info: Driver file: pdftex.def on input line 147.
+)
+\everycr=\toks19
+\minrowclearance=\skip65
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2016/11/05 v2.16a AMS math features
+\@mathmargin=\skip66
+
+For additional information on amsmath, use the `?' option.
+(/usr/local/texlive/2017/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01 AMS text
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks20
+\ex@=\dimen146
+))
+(/usr/local/texlive/2017/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen147
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count300
+LaTeX Info: Redefining \frac on input line 213.
+\uproot@=\count301
+\leftroot@=\count302
+LaTeX Info: Redefining \overline on input line 375.
+\classnum@=\count303
+\DOTSCASE@=\count304
+LaTeX Info: Redefining \ldots on input line 472.
+LaTeX Info: Redefining \dots on input line 475.
+LaTeX Info: Redefining \cdots on input line 596.
+\Mathstrutbox@=\box28
+\strutbox@=\box29
+\big@size=\dimen148
+LaTeX Font Info:    Redeclaring font encoding OML on input line 712.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 713.
+\macc@depth=\count305
+\c@MaxMatrixCols=\count306
+\dotsspace@=\muskip11
+\c@parentequation=\count307
+\dspbrk@lvl=\count308
+\tag@help=\toks21
+\row@=\count309
+\column@=\count310
+\maxfields@=\count311
+\andhelp@=\toks22
+\eqnshift@=\dimen149
+\alignsep@=\dimen150
+\tagshift@=\dimen151
+\tagwidth@=\dimen152
+\totwidth@=\dimen153
+\lineht@=\dimen154
+\@envbody=\toks23
+\multlinegap=\skip67
+\multlinetaggap=\skip68
+\mathdisplay@stack=\toks24
+LaTeX Info: Redefining \[ on input line 2817.
+LaTeX Info: Redefining \] on input line 2818.
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+LaTeX Info: Redefining \color on input line 709.
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1352.
+Package xcolor Info: Model `RGB' extended on input line 1364.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
+)
+   defining Unicode char U+301 (decimal 769)
+Package biblatex Info: Trying to load language 'english'...
+Package biblatex Info: ... file 'english.lbx' found.
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/biblatex/lbx/english.lbx
+File: english.lbx 2016/12/05 v3.7 biblatex localization (PK/JW/AB)
+)
+
+Package biblatex Warning: 'babel/polyglossia' detected but 'csquotes' missing.
+(biblatex)                Loading 'csquotes' recommended.
+
+\@quotelevel=\count312
+\@quotereset=\count313
+(./ut-thesis.aux (./introduction/introduction.aux)
+(./methodology/methodology.aux) (./nav1/nav_1.aux) (./navreview/nav_review.aux)
+(./nav2/nav_2.aux) (./nav6/nav_6.aux) (./navopen/nav_open.aux)
+(./navvsd/navvsd.aux) (./outlook/outlook.aux))
+\openout1 = `ut-thesis.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 205.
+LaTeX Font Info:    ... okay on input line 205.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 205.
+LaTeX Font Info:    ... okay on input line 205.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 205.
+LaTeX Font Info:    ... okay on input line 205.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 205.
+LaTeX Font Info:    ... okay on input line 205.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 205.
+LaTeX Font Info:    ... okay on input line 205.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 205.
+LaTeX Font Info:    ... okay on input line 205.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 205.
+LaTeX Font Info:    ... okay on input line 205.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: <default>
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(90.3375pt, 451.68752pt, 72.26999pt)
+* v-part:(T,H,B)=(72.26999pt, 650.43001pt, 72.26999pt)
+* \paperwidth=614.295pt
+* \paperheight=794.96999pt
+* \textwidth=451.68752pt
+* \textheight=650.43001pt
+* \oddsidemargin=18.0675pt
+* \evensidemargin=18.0675pt
+* \topmargin=-36.135pt
+* \headheight=12.0pt
+* \headsep=24.135pt
+* \topskip=10.0pt
+* \footskip=36.135pt
+* \marginparwidth=54.2025pt
+* \marginparsep=9.03374pt
+* \columnsep=10.0pt
+* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+\AtBeginShipoutBox=\box30
+Package hyperref Info: Link coloring OFF on input line 205.
+(/usr/local/texlive/2017/texmf-dist/tex/latex/hyperref/nameref.sty
+Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
+
+(/usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
+Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
+)
+\c@section@level=\count314
+)
+LaTeX Info: Redefining \ref on input line 205.
+LaTeX Info: Redefining \pageref on input line 205.
+LaTeX Info: Redefining \nameref on input line 205.
+
+(./ut-thesis.out) (./ut-thesis.out)
+\@outlinefile=\write5
+\openout5 = `ut-thesis.out'.
+
+Package biblatex Info: Input encoding 'utf8' detected.
+Package biblatex Info: Automatic encoding selection.
+(biblatex)             Assuming data encoding 'utf8'.
+\openout4 = `ut-thesis.bcf'.
+
+Package biblatex Info: Trying to load bibliographic data...
+Package biblatex Info: ... file 'ut-thesis.bbl' found.
+ (./ut-thesis.bbl)
+Package biblatex Info: Reference section=0 on input line 205.
+Package biblatex Info: Reference segment=0 on input line 205.
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/ms/ragged2e.sty
+Package: ragged2e 2009/05/21 v2.1 ragged2e Package (MS)
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/ms/everysel.sty
+Package: everysel 2011/10/28 v1.2 EverySelectfont Package (MS)
+
+ABD: EverySelectfont initializing macros
+LaTeX Info: Redefining \selectfont on input line 126.
+)
+\CenteringLeftskip=\skip69
+\RaggedLeftLeftskip=\skip70
+\RaggedRightLeftskip=\skip71
+\CenteringRightskip=\skip72
+\RaggedLeftRightskip=\skip73
+\RaggedRightRightskip=\skip74
+\CenteringParfillskip=\skip75
+\RaggedLeftParfillskip=\skip76
+\RaggedRightParfillskip=\skip77
+\JustifyingParfillskip=\skip78
+\CenteringParindent=\skip79
+\RaggedLeftParindent=\skip80
+\RaggedRightParindent=\skip81
+\JustifyingParindent=\skip82
+)
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: threeparttable package is loaded.
+Package caption Info: End \AtBeginDocument code.
+
+(/usr/local/texlive/2017/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count315
+\scratchdimen=\dimen155
+\scratchbox=\box31
+\nofMPsegments=\count316
+\nofMParguments=\count317
+\everyMPshowfont=\toks25
+\MPscratchCnt=\count318
+\MPscratchDim=\dimen156
+\MPnumerator=\count319
+\makeMPintoPDFobject=\count320
+\everyMPtoPDFconversion=\toks26
+) (/usr/local/texlive/2017/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+)
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+38.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 212.
+
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/base/omscmr.fd
+File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 212.
+ [1
+
+{/usr/local/texlive/2017/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] [2
+
+] [3] [4] [5]
+\blx@maxsegment@1=\count321
+\blx@sectionciteorder@1=\count322
+Package biblatex Info: Reference section=1 on input line 271.
+Package biblatex Info: Setting label 'refsection:1' on input line 271.
+
+(./ut-thesis.toc [6
+
+] [7] [8])
+\tf@toc=\write6
+\openout6 = `ut-thesis.toc'.
+
+ [9]
+Package biblatex Info: Reference section=0 on input line 278.
+\blx@maxsegment@2=\count323
+\blx@sectionciteorder@2=\count324
+Package biblatex Info: Reference section=2 on input line 278.
+Package biblatex Info: Setting label 'refsection:2' on input line 278.
+ (./ut-thesis.lot)
+\tf@lot=\write7
+\openout7 = `ut-thesis.lot'.
+
+ [10
+
+
+]
+Package biblatex Info: Reference section=0 on input line 285.
+\blx@maxsegment@3=\count325
+\blx@sectionciteorder@3=\count326
+Package biblatex Info: Reference section=3 on input line 285.
+Package biblatex Info: Setting label 'refsection:3' on input line 285.
+ (./ut-thesis.lof
+[11
+
+
+] [12])
+\tf@lof=\write8
+\openout8 = `ut-thesis.lof'.
+
+ [13]
+\openout2 = `introduction/introduction.aux'.
+
+ (./introduction/introduction.tex
+
+./introduction/introduction.tex:1: Package biblatex Error: Nested 'refsection' 
+environment.
+
+See the biblatex package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1  \begin{refsection}
+                       
+? 
+\blx@maxsegment@4=\count327
+\blx@sectionciteorder@4=\count328
+Package biblatex Info: Reference section=4 on input line 1.
+Package biblatex Info: Setting label 'refsection:4' on input line 1.
+Chapter 1.
+Package biblatex Info: Reference section=0 on input line 2.
+\blx@maxsegment@5=\count329
+\blx@sectionciteorder@5=\count330
+Package biblatex Info: Reference section=5 on input line 2.
+Package biblatex Info: Setting label 'refsection:5' on input line 2.
+<introduction/enzyme.pdf, id=753, 1204.5pt x 490.49448pt>
+File: introduction/enzyme.pdf Graphic file (type pdf)
+
+<use introduction/enzyme.pdf>
+Package pdftex.def Info: introduction/enzyme.pdf used on input line 35.
+(pdftex.def)             Requested size: 271.01526pt x 110.36397pt.
+
+Underfull \vbox (badness 2042) has occurred while \output is active []
+
+ [1
+
+
+
+]
+Underfull \vbox (badness 1881) has occurred while \output is active []
+
+ [2 <./introduction/enzyme.pdf>] [3]
+<introduction/channelome.pdf, id=816, 1874.41283pt x 814.50195pt>
+File: introduction/channelome.pdf Graphic file (type pdf)
+
+<use introduction/channelome.pdf>
+Package pdftex.def Info: introduction/channelome.pdf used on input line 55.
+(pdftex.def)             Requested size: 406.516pt x 176.64319pt.
+ [4 <./introduction/channelome.pdf>]
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 62.
+ [5]
+[6] [7] <introduction/navsf.pdf, id=1310, 2067.725pt x 2461.45598pt>
+File: introduction/navsf.pdf Graphic file (type pdf)
+
+<use introduction/navsf.pdf>
+Package pdftex.def Info: introduction/navsf.pdf used on input line 93.
+(pdftex.def)             Requested size: 406.516pt x 483.90688pt.
+
+<introduction/sequence.pdf, id=1321, 1143.27126pt x 856.70062pt>
+File: introduction/sequence.pdf Graphic file (type pdf)
+
+<use introduction/sequence.pdf>
+Package pdftex.def Info: introduction/sequence.pdf used on input line 100.
+(pdftex.def)             Requested size: 451.68752pt x 338.46494pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [8]
+[9 <./introduction/navsf.pdf>] [10 <./introduction/sequence.pdf>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [11]
+[12] [13] <introduction/navstructures.pdf, id=1898, 1027.84pt x 770.88pt>
+File: introduction/navstructures.pdf Graphic file (type pdf)
+
+<use introduction/navstructures.pdf>
+Package pdftex.def Info: introduction/navstructures.pdf used on input line 126.
+
+(pdftex.def)             Requested size: 451.68752pt x 338.7648pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+./introduction/introduction.tex:166: Undefined control sequence.
+<recently read> \cross 
+                       
+l.166 ...height of free energy barriers (ES$\cross
+                                                  $, in Fig. \ref{fig:enzyme...
+
+? 
+[14] [15 <./introduction/navstructures.pdf>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [16]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [17]
+[18] [19] [20] [21] [22] [23] [24] [25] [26] [27] [28]
+Package biblatex Info: Reference section=0 on input line 197.
+) [29]
+\openout2 = `methodology/methodology.aux'.
+
+
+(./methodology/methodology.tex
+\blx@maxsegment@6=\count331
+\blx@sectionciteorder@6=\count332
+Package biblatex Info: Reference section=6 on input line 1.
+Package biblatex Info: Setting label 'refsection:6' on input line 1.
+
+Chapter 2.
+Package biblatex Info: Reference section=0 on input line 2.
+\blx@maxsegment@7=\count333
+\blx@sectionciteorder@7=\count334
+Package biblatex Info: Reference section=7 on input line 2.
+Package biblatex Info: Setting label 'refsection:7' on input line 2.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [30
+
+
+
+]
+[31]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [32]
+[33] [34] [35] [36] [37]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [38]
+[39] [40] [41] [42]
+Package biblatex Info: Reference section=0 on input line 137.
+) [43]
+\openout2 = `nav1/nav_1.aux'.
+
+ (./nav1/nav_1.tex
+\blx@maxsegment@8=\count335
+\blx@sectionciteorder@8=\count336
+Package biblatex Info: Reference section=8 on input line 1.
+Package biblatex Info: Setting label 'refsection:8' on input line 1.
+
+Chapter 3.
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 2.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `superscript' on input line 2.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 2.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\mathsurround' on input line 2.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\z@' on input line 2.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `subscript' on input line 2.
+
+Package biblatex Info: Reference section=0 on input line 2.
+\blx@maxsegment@9=\count337
+\blx@sectionciteorder@9=\count338
+Package biblatex Info: Reference section=9 on input line 2.
+Package biblatex Info: Setting label 'refsection:9' on input line 2.
+[44
+
+
+
+] [45]
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 26.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `superscript' on input line 26.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 26.
+
+<nav1/Nav1Fig1.pdf, id=2348, 405.515pt x 643.40375pt>
+File: nav1/Nav1Fig1.pdf Graphic file (type pdf)
+ <use nav1/Nav1Fig1.pdf>
+Package pdftex.def Info: nav1/Nav1Fig1.pdf used on input line 30.
+(pdftex.def)             Requested size: 225.84375pt x 358.34013pt.
+
+[46] [47 <./nav1/Nav1Fig1.pdf>]
+<nav1/Nav1FigS2.pdf, id=2514, 583.17876pt x 257.96375pt>
+File: nav1/Nav1FigS2.pdf Graphic file (type pdf)
+
+<use nav1/Nav1FigS2.pdf>
+Package pdftex.def Info: nav1/Nav1FigS2.pdf used on input line 42.
+(pdftex.def)             Requested size: 406.516pt x 179.82156pt.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 47.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `superscript' on input line 47.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 47.
+
+<nav1/Nav1Fig2.pdf, id=2519, 195.73125pt x 212.12549pt>
+File: nav1/Nav1Fig2.pdf Graphic file (type pdf)
+
+<use nav1/Nav1Fig2.pdf>
+Package pdftex.def Info: nav1/Nav1Fig2.pdf used on input line 52.
+(pdftex.def)             Requested size: 225.84375pt x 244.77426pt.
+ [48]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [49 <./nav1/Nav1FigS2.pdf>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [50 <./nav1/Nav1Fig2.pdf>] <nav1/Nav1FigS4.pdf, id=2763, 915.42pt x 456.70625p
+t>
+File: nav1/Nav1FigS4.pdf Graphic file (type pdf)
+
+<use nav1/Nav1FigS4.pdf>
+Package pdftex.def Info: nav1/Nav1FigS4.pdf used on input line 65.
+(pdftex.def)             Requested size: 406.516pt x 202.81203pt.
+ <nav1/Nav1Fig4.pdf, id=2764, 662.475pt x 544.0325pt>
+File: nav1/Nav1Fig4.pdf Graphic file (type pdf)
+
+<use nav1/Nav1Fig4.pdf>
+Package pdftex.def Info: nav1/Nav1Fig4.pdf used on input line 74.
+(pdftex.def)             Requested size: 406.516pt x 333.83504pt.
+ [51] [52 <./nav1/Nav1FigS4.pdf>] [53 <./nav1/Nav1Fig4.pdf>]
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 86.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `superscript' on input line 86.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 86.
+
+<nav1/Nav1FigS8.png, id=3028, 1211.4861pt x 700.5372pt>
+File: nav1/Nav1FigS8.png Graphic file (type png)
+
+<use nav1/Nav1FigS8.png>
+Package pdftex.def Info: nav1/Nav1FigS8.png used on input line 90.
+(pdftex.def)             Requested size: 406.516pt x 235.06891pt.
+ [54]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [55 <./nav1/Nav1FigS8.png>] <nav1/Nav1FigS7.png, id=3045, 967.4544pt x 782.925
+pt>
+File: nav1/Nav1FigS7.png Graphic file (type png)
+
+<use nav1/Nav1FigS7.png>
+Package pdftex.def Info: nav1/Nav1FigS7.png used on input line 101.
+(pdftex.def)             Requested size: 406.516pt x 328.98157pt.
+ [56 <./nav1/Nav1FigS7.png>]
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 108.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `superscript' on input line 108.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 108.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\mathsurround' on input line 108.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\z@' on input line 108.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `subscript' on input line 108.
+
+[57] [58] [59]
+Overfull \hbox (0.59218pt too wide) in paragraph at lines 119--119
+[]\T1/cmr/m/n/10 G. A. Kamin-ski, R. A. Fries-ner, J. Tirado-Rives, and W. L. J
+or-gensen, ``Eval-u-a-tion and Reparametriza-
+ []
+
+Package biblatex Info: Reference section=0 on input line 120.
+) [60]
+\openout2 = `navreview/nav_review.aux'.
+
+ (./navreview/nav_review.tex
+\blx@maxsegment@10=\count339
+\blx@sectionciteorder@10=\count340
+Package biblatex Info: Reference section=10 on input line 1.
+Package biblatex Info: Setting label 'refsection:10' on input line 1.
+
+Chapter 4.
+Package biblatex Info: Reference section=0 on input line 2.
+\blx@maxsegment@11=\count341
+\blx@sectionciteorder@11=\count342
+Package biblatex Info: Reference section=11 on input line 2.
+Package biblatex Info: Setting label 'refsection:11' on input line 2.
+[61
+
+
+
+] [62] [63]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [64]
+[65] [66] [67]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [68]
+Underfull \vbox (badness 1226) has occurred while \output is active []
+
+ [69]
+Underfull \vbox (badness 1226) has occurred while \output is active []
+
+ [70]
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `tbp') on input line 64.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 75--75
+[]|\T1/cmr/m/n/5 Corry &
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 75--75
+[]|\T1/cmr/m/n/5 CHARMM22+CMAP
+ []
+
+
+Underfull \hbox (badness 1005) in paragraph at lines 75--75
+\T1/cmr/m/n/5 lipids,[] Joung & Cheatham
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 75--75
+\T1/cmr/m/n/5 ions.[] 0.01 kcal/mol/$[][]$
+ []
+
+
+Underfull \hbox (badness 7832) in paragraph at lines 75--76
+[]|\T1/cmr/m/n/5 300 mM
+ []
+
+
+Underfull \hbox (badness 1442) in paragraph at lines 76--76
+[]|\T1/cmr/m/n/5 2D PMF 2000 $\OMS/cmsy/m/n/5 ^^B$
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 77--77
+[]|\T1/cmr/m/n/5 Furini &
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 77--77
+[]|\T1/cmr/m/n/5 CHARMM22+CMAP
+ []
+
+
+Underfull \hbox (badness 1286) in paragraph at lines 77--78
+[]|$\OMS/cmsy/m/n/5 ^^X$\T1/cmr/m/n/5 66 mM
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 77--78
+\T1/cmr/m/n/5 NaCl or
+ []
+
+
+Underfull \hbox (badness 1286) in paragraph at lines 77--78
+\OMS/cmsy/m/n/5 ^^X$\T1/cmr/m/n/5 66 mM
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 79--79
+[]|\T1/cmr/m/n/5 CHARMM22+CMAP
+ []
+
+
+Underfull \hbox (badness 1005) in paragraph at lines 79--79
+\T1/cmr/m/n/5 lipids,[] Joung & Cheatham
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 79--79
+\T1/cmr/m/n/5 ions.[] 0.01 kcal/mol/$[][]$
+ []
+
+
+Underfull \hbox (badness 7832) in paragraph at lines 79--80
+[]|\T1/cmr/m/n/5 250 mM
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 79--80
+\T1/cmr/m/n/5 NaCl or
+ []
+
+
+Underfull \hbox (badness 7832) in paragraph at lines 79--80
+\T1/cmr/m/n/5 250 mM
+ []
+
+
+Underfull \hbox (badness 6268) in paragraph at lines 81--81
+[]|\T1/cmr/m/n/5 Stock et al.
+ []
+
+
+Underfull \hbox (badness 4001) in paragraph at lines 81--81
+[]|\T1/cmr/m/n/5 Open-Activated Model
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 81--81
+[]|\T1/cmr/m/n/5 CHARMM22+CMAP
+ []
+
+
+Underfull \hbox (badness 7832) in paragraph at lines 81--82
+[]|\T1/cmr/m/n/5 100 mM
+ []
+
+
+Underfull \hbox (badness 3364) in paragraph at lines 82--82
+[]|\T1/cmr/m/n/5 Furini et al.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 82--82
+[]|\T1/cmr/m/n/5 CHARMM22+CMAP
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 82--83
+[]|\T1/cmr/m/n/5 150mM
+ []
+
+
+Underfull \hbox (badness 4378) in paragraph at lines 83--83
+[]|\T1/cmr/m/n/5 2D PMF 175 $\OMS/cmsy/m/n/5 ^^B$
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 84--84
+[]|\T1/cmr/m/n/5 Finol-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 84--84
+\T1/cmr/m/n/5 Urdaneta
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 84--84
+[]|\T1/cmr/m/n/5 WT/E177D. Closed
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 84--84
+[]|\T1/cmr/m/n/5 CHARMM22+CMAP
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 84--84
+\T1/cmr/m/n/5 protein,[] CHARMM27
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 84--85
+[]|\T1/cmr/m/n/5 150mM
+ []
+
+
+Underfull \hbox (badness 1442) in paragraph at lines 85--85
+[]|\T1/cmr/m/n/5 2D PMF 1045 $\OMS/cmsy/m/n/5 ^^B$
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 86--86
+[]|\T1/cmr/m/n/5 SF Model (E154 to
+ []
+
+
+Underfull \hbox (badness 2932) in paragraph at lines 86--86
+\T1/cmr/m/n/5 Y193), no S5-S6, no
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 86--86
+\T1/cmr/m/n/5 VSDs NavAb I217C
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 86--86
+[]|\T1/cmr/m/n/5 CHARMM22+CMAP
+ []
+
+
+Underfull \hbox (badness 1546) in paragraph at lines 86--86
+\T1/cmr/m/n/5 protein,[] CHARMM22 ions.[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 86--87
+[]|\T1/cmr/m/n/5 0 mM
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 86--87
+\T1/cmr/m/n/5 NaCl
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 86--87
+\T1/cmr/m/n/5 (+coun-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 88--88
+[]|\T1/cmr/m/n/5 Mahdavi &
+ []
+
+
+Underfull \hbox (badness 1502) in paragraph at lines 88--88
+[]|\T1/cmr/m/n/5 Nav1.4 Model, Closed
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 88--88
+[]|\T1/cmr/m/n/5 CHARMM36+CMAP
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 88--88
+\T1/cmr/m/n/5 lipids,[] CHARMM22 ions
+ []
+
+
+Underfull \hbox (badness 7832) in paragraph at lines 88--89
+[]|\T1/cmr/m/n/5 100 mM
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 89--89
+[]|\T1/cmr/m/n/5 Ngo et al.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 89--89
+[]|\T1/cmr/m/n/5 CHARMM22+CMAP
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 89--89
+\T1/cmr/m/n/5 protein,[] CHARMM36
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 89--89
+\T1/cmr/m/n/5 POPC,[] CHARMM36 ions
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 89--89
+[]|\T1/cmr/m/n/5 Non-equilibrium
+ []
+
+
+Underfull \hbox (badness 7504) in paragraph at lines 89--89
+\T1/cmr/m/n/5 pulling in in-cre-
+ []
+
+
+Underfull \hbox (badness 2277) in paragraph at lines 89--89
+\T1/cmr/m/n/5 3 ns (in-ward for
+ []
+
+
+Underfull \hbox (badness 1097) in paragraph at lines 89--89
+\T1/cmr/m/n/5 Na$[]$ 1 K$[]$, out-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 89--90
+[]|$\OMS/cmsy/m/n/5 ^^X$\T1/cmr/m/n/5 150
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 89--90
+\T1/cmr/m/n/5 mM
+ []
+
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `tbp') on input line 99.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 110--110
+[]|\T1/cmr/m/n/5 Carnevale et
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 110--110
+\T1/cmr/m/n/5 NavAb Wild-type
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 110--110
+[]|\T1/cmr/m/n/5 CHARMM22+CMAP
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 110--111
+[]|\T1/cmr/m/n/5 70 mM
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 111--111
+[]|\T1/cmr/m/n/5 WT/DEKA/DEAA.
+ []
+
+
+Underfull \hbox (badness 1264) in paragraph at lines 111--111
+\T1/cmr/m/n/5 Closed Pore (E118 to
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 111--111
+[]|\T1/cmr/m/n/5 CHARMM22+CMAP
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 111--112
+[]|\T1/cmr/m/n/5 70 mM
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 112--113
+[]|\T1/cmr/m/n/5 70 mM
+ []
+
+
+Underfull \hbox (badness 7832) in paragraph at lines 113--114
+[]|\T1/cmr/m/n/5 100 mM
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 113--114
+\T1/cmr/m/n/5 NaCl +
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 113--114
+\T1/cmr/m/n/5 33 mM
+ []
+
+
+Underfull \hbox (badness 6268) in paragraph at lines 114--114
+[]|\T1/cmr/m/n/5 Stock et al.
+ []
+
+
+Underfull \hbox (badness 4001) in paragraph at lines 114--114
+[]|\T1/cmr/m/n/5 Open-Activated Model
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 114--114
+[]|\T1/cmr/m/n/5 CHARMM22+CMAP
+ []
+
+
+Underfull \hbox (badness 7832) in paragraph at lines 114--115
+[]|\T1/cmr/m/n/5 100 mM
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 116--116
+\T1/cmr/m/n/5 NavAb Wild-type
+ []
+
+
+Underfull \hbox (badness 2245) in paragraph at lines 116--116
+[]|\T1/cmr/m/n/5 AMBER99sb protein,[] AM-
+ []
+
+
+Underfull \hbox (badness 1558) in paragraph at lines 116--116
+\T1/cmr/m/n/5 BER GAFF DOPC lipids,[]
+ []
+
+
+Underfull \hbox (badness 7832) in paragraph at lines 116--117
+[]|\T1/cmr/m/n/5 100 mM
+ []
+
+
+Underfull \hbox (badness 7832) in paragraph at lines 117--118
+[]|\T1/cmr/m/n/5 100 mM
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 118--118
+[]|\T1/cmr/m/n/5 Ulmschneider
+ []
+
+
+Underfull \hbox (badness 1953) in paragraph at lines 118--118
+[]|\T1/cmr/m/n/5 Open Pore, no VSDs
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 118--118
+[]|\T1/cmr/m/n/5 CHARMM22+CMAP
+ []
+
+
+Underfull \hbox (badness 1005) in paragraph at lines 118--118
+\T1/cmr/m/n/5 lipids,[] Joung & Cheatham
+ []
+
+
+Underfull \hbox (badness 4416) in paragraph at lines 118--118
+\T1/cmr/m/n/5 ions.[] 1 kcal/mol//$[][]$ re-
+ []
+
+
+Underfull \hbox (badness 2469) in paragraph at lines 118--118
+\T1/cmr/m/n/5 K Ex-ter-nal Ap-plied Field
+ []
+
+
+Underfull \hbox (badness 2671) in paragraph at lines 118--118
+[]|\T1/cmr/m/n/5 1 $\OMS/cmsy/m/n/5 ^^B$ \T1/cmr/m/n/5 1 $\OML/cmm/m/it/5 ^^V$\
+T1/cmr/m/n/5 s (each
+ []
+
+
+Underfull \hbox (badness 7832) in paragraph at lines 118--119
+[]|\T1/cmr/m/n/5 500 mM
+ []
+
+
+Underfull \hbox (badness 2671) in paragraph at lines 119--119
+[]|\T1/cmr/m/n/5 1 $\OMS/cmsy/m/n/5 ^^B$ \T1/cmr/m/n/5 1 $\OML/cmm/m/it/5 ^^V$\
+T1/cmr/m/n/5 s (each
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 121--121
+[]|\T1/cmr/m/n/5 Chakrabarti
+ []
+
+
+Underfull \hbox (badness 7832) in paragraph at lines 121--122
+[]|\T1/cmr/m/n/5 150 mM
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 124--124
+[]|\T1/cmr/m/n/5 Xia et al.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 124--124
+[]|\T1/cmr/m/n/5 WT/DEKA/DEAA.
+ []
+
+
+Underfull \hbox (badness 1264) in paragraph at lines 124--124
+\T1/cmr/m/n/5 Closed Pore (E118 to
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 124--124
+[]|\T1/cmr/m/n/5 CHARMM22+CMAP
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 124--124
+\T1/cmr/m/n/5 lipids,[] CHARMM22 ions
+ []
+
+
+Underfull \hbox (badness 6658) in paragraph at lines 124--124
+\T1/cmr/m/n/5 with car-bonyl NBFIX.[] 5
+ []
+
+
+Underfull \hbox (badness 3386) in paragraph at lines 124--124
+\T1/cmr/m/n/5 kcal/mol/$[][]$ re-straints on
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 124--125
+[]|\T1/cmr/m/n/5 70 mM
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 125--126
+[]|\T1/cmr/m/n/5 70 mM
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 126--127
+[]|\T1/cmr/m/n/5 70 mM
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 126--127
+\T1/cmr/m/n/5 NaCl +
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 126--127
+\T1/cmr/m/n/5 70 mM
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 127--127
+\T1/cmr/m/n/5 NavAb Wild-type
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 127--127
+[]|\T1/cmr/m/n/5 CHARMM22+CMAP
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 127--127
+\T1/cmr/m/n/5 lipids,[] CHARMM22 ions
+ []
+
+
+Underfull \hbox (badness 7832) in paragraph at lines 127--128
+[]|\T1/cmr/m/n/5 150 mM
+ []
+
+
+Underfull \hbox (badness 7832) in paragraph at lines 128--129
+[]|\T1/cmr/m/n/5 300 mM
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 128--129
+\T1/cmr/m/n/5 NaCl /
+ []
+
+
+Underfull \hbox (badness 1953) in paragraph at lines 130--130
+[]|\T1/cmr/m/n/5 Open Pore, no VSDs
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 130--130
+\T1/cmr/m/n/5 NavMs Sym-metrized
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 130--130
+[]|\T1/cmr/m/n/5 AMBER99SB protein,[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 130--130
+\T1/cmr/m/n/5 Berger POPC lipids,[]
+ []
+
+
+Underfull \hbox (badness 5756) in paragraph at lines 130--130
+[]|\T1/cmr/m/n/5 dt = 4 fs, NPT T =
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 130--130
+\T1/cmr/m/n/5 300K Dou-ble mem-brane
+ []
+
+
+Underfull \hbox (badness 7832) in paragraph at lines 130--131
+[]|\T1/cmr/m/n/5 500 mM
+ []
+
+
+Underfull \hbox (badness 1755) in paragraph at lines 133--133
+[]|\T1/cmr/m/n/5 Above, and glu-tamic acid
+ []
+
+
+Underfull \hbox (badness 7832) in paragraph at lines 133--134
+[]|\T1/cmr/m/n/5 500 mM
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 135--135
+[]|\T1/cmr/m/n/5 Mahdavi &
+ []
+
+
+Underfull \hbox (badness 1502) in paragraph at lines 135--135
+[]|\T1/cmr/m/n/5 Nav1.4 Model, Closed
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 135--135
+[]|\T1/cmr/m/n/5 CHARMM36+CMAP
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 135--135
+\T1/cmr/m/n/5 lipids,[] CHARMM22 ions
+ []
+
+
+Underfull \hbox (badness 7832) in paragraph at lines 135--136
+[]|\T1/cmr/m/n/5 100 mM
+ []
+
+
+Underfull \vbox (badness 1226) has occurred while \output is active []
+
+ [71]
+[72] [73]
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 154.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `superscript' on input line 154.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 154.
+
+
+Underfull \vbox (badness 4416) has occurred while \output is active []
+
+ [74]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [75]
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 159.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `superscript' on input line 159.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 159.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 165.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `superscript' on input line 165.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 165.
+
+
+Underfull \vbox (badness 1226) has occurred while \output is active []
+
+ [76]
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 169.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `superscript' on input line 169.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 169.
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [77]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [78]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [79]
+Underfull \vbox (badness 1226) has occurred while \output is active []
+
+ [80]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [81]
+<navreview/revfig2.pdf, id=3517, 1163.78784pt x 749.34256pt>
+File: navreview/revfig2.pdf Graphic file (type pdf)
+
+<use navreview/revfig2.pdf>
+Package pdftex.def Info: navreview/revfig2.pdf used on input line 195.
+(pdftex.def)             Requested size: 406.516pt x 261.74785pt.
+ [82] [83 <./navreview/revfig2.pdf>] [84] [85]
+Overfull \hbox (0.59218pt too wide) in paragraph at lines 211--211
+[]\T1/cmr/m/n/10 G. A. Kamin-ski, R. A. Fries-ner, J. Tirado-Rives, and W. L. J
+or-gensen, ``Eval-u-a-tion and Reparametriza-
+ []
+
+[86] [87] [88] [89] [90]
+Package biblatex Info: Reference section=0 on input line 212.
+) [91]
+\openout2 = `nav2/nav_2.aux'.
+
+ (./nav2/nav_2.tex
+\blx@maxsegment@12=\count343
+\blx@sectionciteorder@12=\count344
+Package biblatex Info: Reference section=12 on input line 1.
+Package biblatex Info: Setting label 'refsection:12' on input line 1.
+
+Chapter 5.
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 2.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `superscript' on input line 2.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 2.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 2.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `superscript' on input line 2.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 2.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\mathsurround' on input line 2.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\z@' on input line 2.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `subscript' on input line 2.
+
+Package biblatex Info: Reference section=0 on input line 2.
+\blx@maxsegment@13=\count345
+\blx@sectionciteorder@13=\count346
+Package biblatex Info: Reference section=13 on input line 2.
+Package biblatex Info: Setting label 'refsection:13' on input line 2.
+[92
+
+
+
+] [93] [94]
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 24.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `superscript' on input line 24.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 24.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 24.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `superscript' on input line 24.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 24.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\mathsurround' on input line 24.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\z@' on input line 24.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `subscript' on input line 24.
+
+<nav2/Nav2Fig1.pdf, id=8406, 1289.31688pt x 886.76895pt>
+File: nav2/Nav2Fig1.pdf Graphic file (type pdf)
+
+<use nav2/Nav2Fig1.pdf>
+Package pdftex.def Info: nav2/Nav2Fig1.pdf used on input line 28.
+(pdftex.def)             Requested size: 361.35138pt x 248.52364pt.
+
+<nav2/Nav2FigS4.pdf, id=8418, 1932.79083pt x 1101.40488pt>
+File: nav2/Nav2FigS4.pdf Graphic file (type pdf)
+
+<use nav2/Nav2FigS4.pdf>
+Package pdftex.def Info: nav2/Nav2FigS4.pdf used on input line 37.
+(pdftex.def)             Requested size: 316.17987pt x 180.161pt.
+ [95] [96 <./nav2/Nav2Fig1.pdf> <./nav2/Nav2FigS4.pdf
+
+pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./nav2/Nav2FigS4.pdf): PDF i
+nclusion: multiple pdfs with page group included in a single page
+>] <nav2/Nav2FigS1.pdf, id=12300, 2325.70885pt x 827.24156pt>
+File: nav2/Nav2FigS1.pdf Graphic file (type pdf)
+
+<use nav2/Nav2FigS1.pdf>
+Package pdftex.def Info: nav2/Nav2FigS1.pdf used on input line 46.
+(pdftex.def)             Requested size: 406.516pt x 144.59271pt.
+ [97 <./nav2/Nav2FigS1.pdf>]
+<nav2/Nav2Fig2.pdf, id=12406, 1680.44818pt x 1521.02249pt>
+File: nav2/Nav2Fig2.pdf Graphic file (type pdf)
+
+<use nav2/Nav2Fig2.pdf>
+Package pdftex.def Info: nav2/Nav2Fig2.pdf used on input line 56.
+(pdftex.def)             Requested size: 316.17987pt x 286.16579pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [98 <./nav2/Nav2Fig2.pdf>] <nav2/Nav2Fig3.pdf, id=13043, 1184.70609pt x 1985.4
+2755pt>
+File: nav2/Nav2Fig3.pdf Graphic file (type pdf)
+
+<use nav2/Nav2Fig3.pdf>
+Package pdftex.def Info: nav2/Nav2Fig3.pdf used on input line 67.
+(pdftex.def)             Requested size: 271.01526pt x 454.18483pt.
+
+Underfull \vbox (badness 4608) has occurred while \output is active []
+
+ [99]
+[100 <./nav2/Nav2Fig3.pdf>]
+<nav2/Nav2Fig3-5.pdf, id=13583, 1087.06125pt x 835.83165pt>
+File: nav2/Nav2Fig3-5.pdf Graphic file (type pdf)
+
+<use nav2/Nav2Fig3-5.pdf>
+Package pdftex.def Info: nav2/Nav2Fig3-5.pdf used on input line 80.
+(pdftex.def)             Requested size: 271.01526pt x 208.38348pt.
+ [101]
+<nav2/Nav2FigS8.pdf, id=13592, 1115.00562pt x 727.1406pt>
+File: nav2/Nav2FigS8.pdf Graphic file (type pdf)
+
+<use nav2/Nav2FigS8.pdf>
+Package pdftex.def Info: nav2/Nav2FigS8.pdf used on input line 91.
+(pdftex.def)             Requested size: 271.01526pt x 176.73636pt.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\mathsurround' on input line 96.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\z@' on input line 96.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `subscript' on input line 96.
+
+<nav2/Nav2FigS2.pdf, id=13593, 1336.995pt x 897.30734pt>
+File: nav2/Nav2FigS2.pdf Graphic file (type pdf)
+
+<use nav2/Nav2FigS2.pdf>
+Package pdftex.def Info: nav2/Nav2FigS2.pdf used on input line 100.
+(pdftex.def)             Requested size: 316.17987pt x 212.19536pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [102 <./nav2/Nav2Fig3-5.pdf>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [103 <./nav2/Nav2FigS8.pdf>] <nav2/Nav2FigS7.pdf, id=14943, 2674.51196pt x 218
+8.1951pt>
+File: nav2/Nav2FigS7.pdf Graphic file (type pdf)
+
+<use nav2/Nav2FigS7.pdf>
+Package pdftex.def Info: nav2/Nav2FigS7.pdf used on input line 111.
+(pdftex.def)             Requested size: 316.17987pt x 258.66556pt.
+
+<nav2/Nav2Fig4.pdf, id=14944, 1130.67413pt x 1061.41539pt>
+File: nav2/Nav2Fig4.pdf Graphic file (type pdf)
+
+<use nav2/Nav2Fig4.pdf>
+Package pdftex.def Info: nav2/Nav2Fig4.pdf used on input line 118.
+(pdftex.def)             Requested size: 271.01526pt x 254.40479pt.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 123.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `superscript' on input line 123.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 123.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 123.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `superscript' on input line 123.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 123.
+
+<nav2/Nav2FigS5.pdf, id=14945, 1936.23375pt x 1171.37625pt>
+File: nav2/Nav2FigS5.pdf Graphic file (type pdf)
+
+<use nav2/Nav2FigS5.pdf>
+Package pdftex.def Info: nav2/Nav2FigS5.pdf used on input line 127.
+(pdftex.def)             Requested size: 406.516pt x 245.92477pt.
+ [104 <./nav2/Nav2FigS2.pdf>] [105 <./nav2/Nav2FigS7.pdf>] <nav2/Nav2FigS3.pdf,
+ id=18446, 1288.815pt x 1225.07687pt>
+File: nav2/Nav2FigS3.pdf Graphic file (type pdf)
+
+<use nav2/Nav2FigS3.pdf>
+Package pdftex.def Info: nav2/Nav2FigS3.pdf used on input line 138.
+(pdftex.def)             Requested size: 316.17987pt x 300.54837pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [106 <./nav2/Nav2Fig4.pdf>] [107 <./nav2/Nav2FigS5.pdf>]
+<nav2/Nav2Fig5.pdf, id=20236, 1041.88245pt x 1558.06088pt>
+File: nav2/Nav2Fig5.pdf Graphic file (type pdf)
+
+<use nav2/Nav2Fig5.pdf>
+Package pdftex.def Info: nav2/Nav2Fig5.pdf used on input line 145.
+(pdftex.def)             Requested size: 271.01526pt x 405.27647pt.
+ [108 <./nav2/Nav2FigS3.pdf>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [109 <./nav2/Nav2Fig5.pdf>] <nav2/Nav2Fig6.pdf, id=23278, 1041.88245pt x 2154.
+32858pt>
+File: nav2/Nav2Fig6.pdf Graphic file (type pdf)
+
+<use nav2/Nav2Fig6.pdf>
+Package pdftex.def Info: nav2/Nav2Fig6.pdf used on input line 157.
+(pdftex.def)             Requested size: 271.01526pt x 560.37521pt.
+
+
+LaTeX Warning: Float too large for page by 51.9452pt on input line 160.
+
+<nav2/Nav2FigS6.pdf, id=23279, 2177.35455pt x 1144.275pt>
+File: nav2/Nav2FigS6.pdf Graphic file (type pdf)
+
+<use nav2/Nav2FigS6.pdf>
+Package pdftex.def Info: nav2/Nav2FigS6.pdf used on input line 164.
+(pdftex.def)             Requested size: 316.17987pt x 166.15134pt.
+
+Underfull \vbox (badness 1226) has occurred while \output is active []
+
+ [110]
+[111 <./nav2/Nav2Fig6.pdf>] [112 <./nav2/Nav2FigS6.pdf>]
+<nav2/Nav2FigS7-5.pdf, id=25747, 2748.4682pt x 1670.10951pt>
+File: nav2/Nav2FigS7-5.pdf Graphic file (type pdf)
+
+<use nav2/Nav2FigS7-5.pdf>
+Package pdftex.def Info: nav2/Nav2FigS7-5.pdf used on input line 174.
+(pdftex.def)             Requested size: 316.17987pt x 192.12227pt.
+
+<nav2/Nav2Fig7.pdf, id=25748, 1041.88245pt x 1638.12pt>
+File: nav2/Nav2Fig7.pdf Graphic file (type pdf)
+
+<use nav2/Nav2Fig7.pdf>
+Package pdftex.def Info: nav2/Nav2Fig7.pdf used on input line 183.
+(pdftex.def)             Requested size: 271.01526pt x 426.10112pt.
+
+Underfull \vbox (badness 1226) has occurred while \output is active []
+
+ [113]
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 193.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `superscript' on input line 193.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 193.
+
+[114 <./nav2/Nav2FigS7-5.pdf>] [115 <./nav2/Nav2Fig7.pdf>] [116] [117] [118]
+[119] [120]
+Underfull \vbox (badness 1226) has occurred while \output is active []
+
+ [121]
+[122] [123] [124] [125] [126]
+Overfull \hbox (0.59218pt too wide) in paragraph at lines 270--270
+[]\T1/cmr/m/n/10 G. A. Kamin-ski, R. A. Fries-ner, J. Tirado-Rives, and W. L. J
+or-gensen, ``Eval-u-a-tion and Reparametriza-
+ []
+
+[127]
+Package biblatex Info: Reference section=0 on input line 271.
+)
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [128]
+\openout2 = `nav6/nav_6.aux'.
+
+
+(./nav6/nav_6.tex
+\blx@maxsegment@14=\count347
+\blx@sectionciteorder@14=\count348
+Package biblatex Info: Reference section=14 on input line 1.
+Package biblatex Info: Setting label 'refsection:14' on input line 1.
+
+Chapter 6.
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 2.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `superscript' on input line 2.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 2.
+
+Package biblatex Info: Reference section=0 on input line 2.
+\blx@maxsegment@15=\count349
+\blx@sectionciteorder@15=\count350
+Package biblatex Info: Reference section=15 on input line 2.
+Package biblatex Info: Setting label 'refsection:15' on input line 2.
+[129
+
+
+
+]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [130]
+Overfull \hbox (0.81676pt too wide) in paragraph at lines 20--21
+[]\T1/cmr/m/n/10 In the bac-te-rial voltage-gated sodium chan-nel, our pre-vi-o
+us data sup-port the hy-poth-e-sis that sidechain
+ []
+
+
+Underfull \vbox (badness 1953) has occurred while \output is active []
+
+ [131]
+<nav6/Nav6Fig1.pdf, id=27712, 1063.95491pt x 1260.32857pt>
+File: nav6/Nav6Fig1.pdf Graphic file (type pdf)
+
+<use nav6/Nav6Fig1.pdf>
+Package pdftex.def Info: nav6/Nav6Fig1.pdf used on input line 32.
+(pdftex.def)             Requested size: 361.35138pt x 428.0445pt.
+
+Overfull \hbox (5.1639pt too wide) in paragraph at lines 37--38
+\T1/cmr/m/n/10 [[]8[]]. Specif-i-cally, cation bind-ing shifts the con-for-ma-t
+ional equi-lib-rium of E177 from the crystallographically-
+ []
+
+[132] [133 <./nav6/Nav6Fig1.pdf>]
+<nav6/Nav6Fig2.pdf, id=28178, 433.62pt x 289.08pt>
+File: nav6/Nav6Fig2.pdf Graphic file (type pdf)
+ <use nav6/Nav6Fig2.pdf>
+Package pdftex.def Info: nav6/Nav6Fig2.pdf used on input line 41.
+(pdftex.def)             Requested size: 225.84375pt x 150.56506pt.
+
+Underfull \vbox (badness 6047) has occurred while \output is active []
+
+ [134 <./nav6/Nav6Fig2.pdf>] <nav6/Nav6Fig3.pdf, id=28218, 1831.02072pt x 843.0
+2655pt>
+File: nav6/Nav6Fig3.pdf Graphic file (type pdf)
+
+<use nav6/Nav6Fig3.pdf>
+Package pdftex.def Info: nav6/Nav6Fig3.pdf used on input line 50.
+(pdftex.def)             Requested size: 406.516pt x 187.1644pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [135 <./nav6/Nav6Fig3.pdf>] <nav6/Nav6FigS1.pdf, id=28727, 952.79762pt x 1439.
+25705pt>
+File: nav6/Nav6FigS1.pdf Graphic file (type pdf)
+
+<use nav6/Nav6FigS1.pdf>
+Package pdftex.def Info: nav6/Nav6FigS1.pdf used on input line 59.
+(pdftex.def)             Requested size: 316.17987pt x 477.61362pt.
+
+<nav6/Nav6FigS2.pdf, id=28732, 2413.015pt x 1985.42755pt>
+File: nav6/Nav6FigS2.pdf Graphic file (type pdf)
+
+<use nav6/Nav6FigS2.pdf>
+Package pdftex.def Info: nav6/Nav6FigS2.pdf used on input line 68.
+(pdftex.def)             Requested size: 361.35138pt x 297.31656pt.
+
+<nav6/Nav6FigS3.pdf, id=28733, 2413.015pt x 1985.42755pt>
+File: nav6/Nav6FigS3.pdf Graphic file (type pdf)
+
+<use nav6/Nav6FigS3.pdf>
+Package pdftex.def Info: nav6/Nav6FigS3.pdf used on input line 75.
+(pdftex.def)             Requested size: 361.35138pt x 297.31656pt.
+
+<nav6/Nav6FigS4.pdf, id=28738, 2413.015pt x 1985.42755pt>
+File: nav6/Nav6FigS4.pdf Graphic file (type pdf)
+
+<use nav6/Nav6FigS4.pdf>
+Package pdftex.def Info: nav6/Nav6FigS4.pdf used on input line 84.
+(pdftex.def)             Requested size: 361.35138pt x 297.31656pt.
+
+<nav6/Nav6FigS5.pdf, id=28741, 2413.015pt x 1985.42755pt>
+File: nav6/Nav6FigS5.pdf Graphic file (type pdf)
+
+<use nav6/Nav6FigS5.pdf>
+Package pdftex.def Info: nav6/Nav6FigS5.pdf used on input line 91.
+(pdftex.def)             Requested size: 361.35138pt x 297.31656pt.
+ [136] [137 <./nav6/Nav6FigS1.pdf>] [138 <./nav6/Nav6FigS2.pdf>] [139 <./nav6/N
+av6FigS3.pdf>] [140 <./nav6/Nav6FigS4.pdf>] [141 <./nav6/Nav6FigS5.pdf>] <nav6/
+Nav6FigS6.pdf, id=34206, 2062.09386pt x 1938.1208pt>
+File: nav6/Nav6FigS6.pdf Graphic file (type pdf)
+
+<use nav6/Nav6FigS6.pdf>
+Package pdftex.def Info: nav6/Nav6FigS6.pdf used on input line 100.
+(pdftex.def)             Requested size: 361.35138pt x 339.61983pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [142 <./nav6/Nav6FigS6.pdf>]
+Underfull \vbox (badness 1953) has occurred while \output is active []
+
+ [143]
+[144] [145] [146]
+Overfull \hbox (0.59218pt too wide) in paragraph at lines 122--122
+[]\T1/cmr/m/n/10 G. A. Kamin-ski, R. A. Fries-ner, J. Tirado-Rives, and W. L. J
+or-gensen, ``Eval-u-a-tion and Reparametriza-
+ []
+
+Package biblatex Info: Reference section=0 on input line 123.
+)
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [147]
+\openout2 = `navopen/nav_open.aux'.
+
+
+(./navopen/nav_open.tex
+\blx@maxsegment@16=\count351
+\blx@sectionciteorder@16=\count352
+Package biblatex Info: Reference section=16 on input line 1.
+Package biblatex Info: Setting label 'refsection:16' on input line 1.
+
+Chapter 7.
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\mathsurround' on input line 2.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\z@' on input line 2.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `subscript' on input line 2.
+
+Package biblatex Info: Reference section=0 on input line 2.
+\blx@maxsegment@17=\count353
+\blx@sectionciteorder@17=\count354
+Package biblatex Info: Reference section=17 on input line 2.
+Package biblatex Info: Setting label 'refsection:17' on input line 2.
+
+Overfull \hbox (4.33076pt too wide) in paragraph at lines 8--9
+\T1/cmr/m/n/10 K.R., and R.P. per-formed re-search; C.I. per-formed all sim-u-l
+a-tions; K.R. con-tributed new reagents/analytic
+ []
+
+[148
+
+
+
+] [149] [150] [151]
+<navopen/NavOFig2.png, id=35784, 627.34375pt x 501.37312pt>
+File: navopen/NavOFig2.png Graphic file (type png)
+
+<use navopen/NavOFig2.png>
+Package pdftex.def Info: navopen/NavOFig2.png used on input line 38.
+(pdftex.def)             Requested size: 225.84375pt x 180.49417pt.
+
+<navopen/NavOFig3.png, id=35785, 627.34375pt x 346.79562pt>
+File: navopen/NavOFig3.png Graphic file (type png)
+
+<use navopen/NavOFig3.png>
+Package pdftex.def Info: navopen/NavOFig3.png used on input line 45.
+(pdftex.def)             Requested size: 225.84375pt x 124.84631pt.
+
+<navopen/NavOFig4.png, id=35786, 752.8125pt x 523.45563pt>
+File: navopen/NavOFig4.png Graphic file (type png)
+
+<use navopen/NavOFig4.png>
+Package pdftex.def Info: navopen/NavOFig4.png used on input line 52.
+(pdftex.def)             Requested size: 225.84375pt x 157.03789pt.
+
+<navopen/NavOFig6.png, id=35787, 752.8125pt x 544.0325pt>
+File: navopen/NavOFig6.png Graphic file (type png)
+
+<use navopen/NavOFig6.png>
+Package pdftex.def Info: navopen/NavOFig6.png used on input line 59.
+(pdftex.def)             Requested size: 225.84375pt x 163.211pt.
+
+<navopen/NavOFig7.png, id=35788, 627.34375pt x 348.30125pt>
+File: navopen/NavOFig7.png Graphic file (type png)
+
+<use navopen/NavOFig7.png>
+Package pdftex.def Info: navopen/NavOFig7.png used on input line 66.
+(pdftex.def)             Requested size: 180.67224pt x 100.30855pt.
+
+<navopen/NavOFig8.png, id=35789, 752.8125pt x 450.68375pt>
+File: navopen/NavOFig8.png Graphic file (type png)
+
+<use navopen/NavOFig8.png>
+Package pdftex.def Info: navopen/NavOFig8.png used on input line 73.
+(pdftex.def)             Requested size: 316.17987pt x 189.29276pt.
+
+<navopen/NavOFig9.pdf, id=35790, 429.605pt x 746.12051pt>
+File: navopen/NavOFig9.pdf Graphic file (type pdf)
+
+<use navopen/NavOFig9.pdf>
+Package pdftex.def Info: navopen/NavOFig9.pdf used on input line 80.
+(pdftex.def)             Requested size: 225.84375pt x 392.24284pt.
+
+Underfull \vbox (badness 4156) has occurred while \output is active []
+
+ [152 <./navopen/NavOFig2.png>] [153 <./navopen/NavOFig3.png> <./navopen/NavOFi
+g4.png>]
+Underfull \vbox (badness 1092) has occurred while \output is active []
+
+ [154 <./navopen/NavOFig6.png> <./navopen/NavOFig7.png>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [155 <./navopen/NavOFig8.png>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [156 <./navopen/NavOFig9.pdf>]
+<navopen/NavOFig10.pdf, id=35850, 1068.99374pt x 412.93974pt>
+File: navopen/NavOFig10.pdf Graphic file (type pdf)
+
+<use navopen/NavOFig10.pdf>
+Package pdftex.def Info: navopen/NavOFig10.pdf used on input line 94.
+(pdftex.def)             Requested size: 406.516pt x 157.03214pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [157 <./navopen/NavOFig10.pdf>] [158] [159]
+Underfull \vbox (badness 1226) has occurred while \output is active []
+
+ [160]
+[161]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [162]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [163]
+[164] [165] [166] [167]
+Package biblatex Info: Reference section=0 on input line 145.
+
+./navopen/nav_open.tex:145: Missing } inserted.
+<inserted text> 
+                }
+l.145 \end{refsection}
+                      
+? 
+) [168]
+\openout2 = `navvsd/navvsd.aux'.
+
+ (./navvsd/navvsd.tex
+\blx@maxsegment@18=\count355
+\blx@sectionciteorder@18=\count356
+Package biblatex Info: Reference section=18 on input line 1.
+Package biblatex Info: Setting label 'refsection:18' on input line 1.
+
+Chapter 8.
+Package biblatex Info: Reference section=0 on input line 2.
+\blx@maxsegment@19=\count357
+\blx@sectionciteorder@19=\count358
+Package biblatex Info: Reference section=19 on input line 2.
+Package biblatex Info: Setting label 'refsection:19' on input line 2.
+[169
+
+
+
+] [170] [171] <navvsd/NavVSDFig2.png, id=36239, 807.015pt x 844.15375pt>
+File: navvsd/NavVSDFig2.png Graphic file (type png)
+
+<use navvsd/NavVSDFig2.png>
+Package pdftex.def Info: navvsd/NavVSDFig2.png used on input line 38.
+(pdftex.def)             Requested size: 316.17987pt x 330.72568pt.
+ [172] [173 <./navvsd/NavVSDFig2.png>]
+<navvsd/NavVSDFig3.png, id=36258, 1091.07625pt x 771.88374pt>
+File: navvsd/NavVSDFig3.png Graphic file (type png)
+
+<use navvsd/NavVSDFig3.png>
+Package pdftex.def Info: navvsd/NavVSDFig3.png used on input line 50.
+(pdftex.def)             Requested size: 316.17987pt x 223.67566pt.
+ [174 <./navvsd/NavVSDFig3.png>] [175]
+<navvsd/NavVSDFig4.pdf, id=36296, 380.58887pt x 611.45137pt>
+File: navvsd/NavVSDFig4.pdf Graphic file (type pdf)
+
+<use navvsd/NavVSDFig4.pdf>
+Package pdftex.def Info: navvsd/NavVSDFig4.pdf used on input line 63.
+(pdftex.def)             Requested size: 225.84375pt x 362.8431pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [176]
+[177 <./navvsd/NavVSDFig4.pdf>]
+Overfull \hbox (28.19713pt too wide) in paragraph at lines 79--80
+[]\T1/cmr/m/n/10 Molecular mod-els of the Na$[]$Ab(WT) and Na$[]$Ab(R3G) chan-n
+els were con-structed us-ing the Na$[]$Ab(I217C)
+ []
+
+[178] [179] [180] [181] [182]
+Package biblatex Info: Reference section=0 on input line 91.
+) [183]
+\openout2 = `outlook/outlook.aux'.
+
+ (./outlook/outlook.tex
+\blx@maxsegment@20=\count359
+\blx@sectionciteorder@20=\count360
+Package biblatex Info: Reference section=20 on input line 1.
+Package biblatex Info: Setting label 'refsection:20' on input line 1.
+
+Chapter 9.
+Package biblatex Info: Reference section=0 on input line 2.
+\blx@maxsegment@21=\count361
+\blx@sectionciteorder@21=\count362
+Package biblatex Info: Reference section=21 on input line 2.
+Package biblatex Info: Setting label 'refsection:21' on input line 2.
+<outlook/outlookFig1.pdf, id=36806, 1319.93124pt x 563.10374pt>
+File: outlook/outlookFig1.pdf Graphic file (type pdf)
+
+<use outlook/outlookFig1.pdf>
+Package pdftex.def Info: outlook/outlookFig1.pdf used on input line 7.
+(pdftex.def)             Requested size: 451.68752pt x 192.69861pt.
+ [184
+
+
+
+] [185]
+<outlook/outlookFig2.pdf, id=36821, 689.9105pt x 342.613pt>
+File: outlook/outlookFig2.pdf Graphic file (type pdf)
+
+<use outlook/outlookFig2.pdf>
+Package pdftex.def Info: outlook/outlookFig2.pdf used on input line 39.
+(pdftex.def)             Requested size: 451.68752pt x 224.30597pt.
+ [186] [187 <./outlook/outlookFig1.pdf> <./outlook/outlookFig2.pdf>] [188] [189
+] [190] [191] [192]
+Package biblatex Info: Reference section=0 on input line 101.
+) [193]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 333.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 333.
+ (./ut-thesis.aux
+(./introduction/introduction.aux) (./methodology/methodology.aux)
+(./nav1/nav_1.aux) (./navreview/nav_review.aux) (./nav2/nav_2.aux)
+(./nav6/nav_6.aux) (./navopen/nav_open.aux) (./navvsd/navvsd.aux)
+(./outlook/outlook.aux))
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 333.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 333.
+Package rerunfilecheck Info: File `ut-thesis.out' has not changed.
+(rerunfilecheck)             Checksum: 0E03F04FBFEFB94158C2698B4E9A06EA;8140.
+
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+
+Package biblatex Warning: Please rerun LaTeX.
+
+Package logreq Info: Writing requests to 'ut-thesis.run.xml'.
+\openout1 = `ut-thesis.run.xml'.
+
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 333.
+ ) 
+Here is how much of TeX's memory you used:
+ 19740 strings out of 492995
+ 353419 string characters out of 6132704
+ 1155957 words of memory out of 5000000
+ 22045 multiletter control sequences out of 15000+600000
+ 28811 words of font info for 69 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 47i,20n,58p,3470b,2754s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/local/texlive/2017/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}
+</usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb><
+/usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx7.pfb></u
+sr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></us
+r/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr
+/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi5.pfb></usr/l
+ocal/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/loc
+al/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local
+/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/local/t
+exlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmr5.pfb></usr/local/texl
+ive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/texlive
+/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/20
+17/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/201
+7/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy5.pfb></usr/local/texlive/2017/
+texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/local/texlive/2017/te
+xmf-dist/fonts/type1/public/cm-super/sfbx0500.pfb></usr/local/texlive/2017/texm
+f-dist/fonts/type1/public/cm-super/sfbx0700.pfb></usr/local/texlive/2017/texmf-
+dist/fonts/type1/public/cm-super/sfbx0800.pfb></usr/local/texlive/2017/texmf-di
+st/fonts/type1/public/cm-super/sfbx1000.pfb></usr/local/texlive/2017/texmf-dist
+/fonts/type1/public/cm-super/sfbx1200.pfb></usr/local/texlive/2017/texmf-dist/f
+onts/type1/public/cm-super/sfbx1440.pfb></usr/local/texlive/2017/texmf-dist/fon
+ts/type1/public/cm-super/sfbx2074.pfb></usr/local/texlive/2017/texmf-dist/fonts
+/type1/public/cm-super/sfbx2488.pfb></usr/local/texlive/2017/texmf-dist/fonts/t
+ype1/public/cm-super/sfcc0700.pfb></usr/local/texlive/2017/texmf-dist/fonts/typ
+e1/public/cm-super/sfcc1000.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1
+/public/cm-super/sfcc1200.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/p
+ublic/cm-super/sfrm0500.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/pub
+lic/cm-super/sfrm0700.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/publi
+c/cm-super/sfrm1000.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/
+cm-super/sfrm1200.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/cm
+-super/sfti1000.pfb>
+Output written on ut-thesis.pdf (206 pages, 127597204 bytes).
+PDF statistics:
+ 37266 PDF objects out of 38293 (max. 8388607)
+ 15193 compressed objects within 152 object streams
+ 897 named destinations out of 1000 (max. 500000)
+ 1117 words of extra memory for PDF output out of 10000 (max. 10000000)
+

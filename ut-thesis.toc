@@ -1,0 +1,221 @@
+\boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
+\defcounter {refsection}{0}\relax 
+\select@language {english}
+\defcounter {refsection}{1}\relax 
+\contentsline {chapter}{List of Tables}{x}{section*.4}
+\defcounter {refsection}{2}\relax 
+\contentsline {chapter}{List of Figures}{xi}{section*.6}
+\defcounter {refsection}{4}\relax 
+\contentsline {chapter}{\numberline {1}Introduction}{1}{chapter.1}
+\defcounter {refsection}{5}\relax 
+\contentsline {section}{\numberline {1.1}Enzymes of Early Life}{1}{section.1.1}
+\defcounter {refsection}{5}\relax 
+\contentsline {section}{\numberline {1.2}Physiological Role of Ion Channels and Disease}{3}{section.1.2}
+\defcounter {refsection}{5}\relax 
+\contentsline {section}{\numberline {1.3}Voltage-gated Ion Channel Structure and Function}{6}{section.1.3}
+\defcounter {refsection}{5}\relax 
+\contentsline {subsection}{\numberline {1.3.1}Voltage-gated Ion Channel Structures}{8}{subsection.1.3.1}
+\defcounter {refsection}{5}\relax 
+\contentsline {subsection}{\numberline {1.3.2}Voltage-gated Ion Channel Selectivity Filters}{11}{subsection.1.3.2}
+\defcounter {refsection}{5}\relax 
+\contentsline {subsection}{\numberline {1.3.3}Classification of Sodium Channel Structures}{12}{subsection.1.3.3}
+\defcounter {refsection}{5}\relax 
+\contentsline {section}{\numberline {1.4}Molecular Mechanisms of Permeation and Selectivity}{14}{section.1.4}
+\defcounter {refsection}{5}\relax 
+\contentsline {section}{\numberline {1.5}Thesis Contributions and Organization}{18}{section.1.5}
+\defcounter {refsection}{5}\relax 
+\contentsline {section}{\numberline {1.6}References}{18}{section.1.6}
+\defcounter {refsection}{6}\relax 
+\contentsline {chapter}{\numberline {2}Methodology}{30}{chapter.2}
+\defcounter {refsection}{7}\relax 
+\contentsline {section}{\numberline {2.1}Statistical Mechanics}{31}{section.2.1}
+\defcounter {refsection}{7}\relax 
+\contentsline {section}{\numberline {2.2}Molecular Dynamics}{34}{section.2.2}
+\defcounter {refsection}{7}\relax 
+\contentsline {section}{\numberline {2.3}Simulation Protocol}{36}{section.2.3}
+\defcounter {refsection}{7}\relax 
+\contentsline {section}{\numberline {2.4}Umbrella Sampling}{38}{section.2.4}
+\defcounter {refsection}{7}\relax 
+\contentsline {section}{\numberline {2.5}References}{40}{section.2.5}
+\defcounter {refsection}{8}\relax 
+\contentsline {chapter}{\numberline {3}Catalysis of Na$^+$ Permeation in the Bacterial Sodium Channel Na\textsubscript {V}Ab}{44}{chapter.3}
+\defcounter {refsection}{9}\relax 
+\contentsline {section}{\numberline {3.1}Summary}{45}{section.3.1}
+\defcounter {refsection}{9}\relax 
+\contentsline {section}{\numberline {3.2}Introduction}{45}{section.3.2}
+\defcounter {refsection}{9}\relax 
+\contentsline {section}{\numberline {3.3}Results and Discussion}{46}{section.3.3}
+\defcounter {refsection}{9}\relax 
+\contentsline {subsection}{\numberline {3.3.1}Na$^+$ movement}{46}{subsection.3.3.1}
+\defcounter {refsection}{9}\relax 
+\contentsline {subsection}{\numberline {3.3.2}Solvation, Binding, and Energetics of Na$^+$ in the Selectivity Filter}{48}{subsection.3.3.2}
+\defcounter {refsection}{9}\relax 
+\contentsline {subsection}{\numberline {3.3.3}Mechanism and Kinetics of Ion Translocation}{51}{subsection.3.3.3}
+\defcounter {refsection}{9}\relax 
+\contentsline {subsection}{\numberline {3.3.4}Coupling of Channel Structure and Dynamics to Na$^+$ Permeation}{54}{subsection.3.3.4}
+\defcounter {refsection}{9}\relax 
+\contentsline {subsection}{\numberline {3.3.5}A Multi-state Knock-on Mechanism for Na$^+$ Permeation in Na\textsubscript {V}Ab}{57}{subsection.3.3.5}
+\defcounter {refsection}{9}\relax 
+\contentsline {section}{\numberline {3.4}Methods}{58}{section.3.4}
+\defcounter {refsection}{9}\relax 
+\contentsline {section}{\numberline {3.5}References}{58}{section.3.5}
+\defcounter {refsection}{10}\relax 
+\contentsline {chapter}{\numberline {4}Simulation Studies of Ion Permeation and Selectivity in Nav Channels}{61}{chapter.4}
+\defcounter {refsection}{11}\relax 
+\contentsline {section}{\numberline {4.1}Summary}{62}{section.4.1}
+\defcounter {refsection}{11}\relax 
+\contentsline {section}{\numberline {4.2}Introduction}{62}{section.4.2}
+\defcounter {refsection}{11}\relax 
+\contentsline {section}{\numberline {4.3}Molecular Simulations of Sodium Channels}{63}{section.4.3}
+\defcounter {refsection}{11}\relax 
+\contentsline {subsection}{\numberline {4.3.1}Channel Model and Force Field}{63}{subsection.4.3.1}
+\defcounter {refsection}{11}\relax 
+\contentsline {subsection}{\numberline {4.3.2}Sampling Technique}{65}{subsection.4.3.2}
+\defcounter {refsection}{11}\relax 
+\contentsline {subsubsection}{Biased Sampling}{65}{section*.21}
+\defcounter {refsection}{11}\relax 
+\contentsline {subsubsection}{Unbiased Sampling}{66}{section*.22}
+\defcounter {refsection}{11}\relax 
+\contentsline {section}{\numberline {4.4}Ion Binding and Permeation in Nav Channels}{67}{section.4.4}
+\defcounter {refsection}{11}\relax 
+\contentsline {subsection}{\numberline {4.4.1}Biased Simulations }{67}{subsection.4.4.1}
+\defcounter {refsection}{11}\relax 
+\contentsline {subsection}{\numberline {4.4.2}Unbiased Equilibrium Simulations}{69}{subsection.4.4.2}
+\defcounter {refsection}{11}\relax 
+\contentsline {subsection}{\numberline {4.4.3}Unbiased Non-equilibrium Simulations}{70}{subsection.4.4.3}
+\defcounter {refsection}{11}\relax 
+\contentsline {subsection}{\numberline {4.4.4}Protonation Studies}{71}{subsection.4.4.4}
+\defcounter {refsection}{11}\relax 
+\contentsline {section}{\numberline {4.5}Ionic selectivity of Nav channels}{74}{section.4.5}
+\defcounter {refsection}{11}\relax 
+\contentsline {subsection}{\numberline {4.5.1}Studies of selectivity over K$^{+}$ using biased sampling}{75}{subsection.4.5.1}
+\defcounter {refsection}{11}\relax 
+\contentsline {subsection}{\numberline {4.5.2}Studies of selectivity over K$^{+}$ using unbiased sampling}{76}{subsection.4.5.2}
+\defcounter {refsection}{11}\relax 
+\contentsline {subsection}{\numberline {4.5.3}Studies of selectivity over Ca$^{2+}$ using unbiased and biased sampling}{77}{subsection.4.5.3}
+\defcounter {refsection}{11}\relax 
+\contentsline {subsection}{\numberline {4.5.4}Studies of selectivity over Ca$^{2+}$ using quantum calculations}{77}{subsection.4.5.4}
+\defcounter {refsection}{11}\relax 
+\contentsline {section}{\numberline {4.6}Critical Discussion}{78}{section.4.6}
+\defcounter {refsection}{11}\relax 
+\contentsline {subsection}{\numberline {4.6.1}Consensus Findings}{78}{subsection.4.6.1}
+\defcounter {refsection}{11}\relax 
+\contentsline {subsection}{\numberline {4.6.2}Divergent Findings}{79}{subsection.4.6.2}
+\defcounter {refsection}{11}\relax 
+\contentsline {subsection}{\numberline {4.6.3}Sources of Discrepancy }{80}{subsection.4.6.3}
+\defcounter {refsection}{11}\relax 
+\contentsline {section}{\numberline {4.7}Perspectives}{84}{section.4.7}
+\defcounter {refsection}{11}\relax 
+\contentsline {section}{\numberline {4.8}References}{86}{section.4.8}
+\defcounter {refsection}{12}\relax 
+\contentsline {chapter}{\numberline {5}Multi-ion Effects and Na$^+$ Selectivity over K$^+$ in Sodium Channel Na\textsubscript {V}Ab}{92}{chapter.5}
+\defcounter {refsection}{13}\relax 
+\contentsline {section}{\numberline {5.1}Summary}{93}{section.5.1}
+\defcounter {refsection}{13}\relax 
+\contentsline {section}{\numberline {5.2}Introduction}{93}{section.5.2}
+\defcounter {refsection}{13}\relax 
+\contentsline {section}{\numberline {5.3}Results}{95}{section.5.3}
+\defcounter {refsection}{13}\relax 
+\contentsline {subsection}{\numberline {5.3.1}Na$^+$ and K$^+$ Ions in the Na\textsubscript {V}Ab Pore}{95}{subsection.5.3.1}
+\defcounter {refsection}{13}\relax 
+\contentsline {subsection}{\numberline {5.3.2}Conformational Isomerization of Glu side chains}{97}{subsection.5.3.2}
+\defcounter {refsection}{13}\relax 
+\contentsline {subsection}{\numberline {5.3.3}Free Energy of Ion Permeation in the SF}{99}{subsection.5.3.3}
+\defcounter {refsection}{13}\relax 
+\contentsline {subsection}{\numberline {5.3.4}Mixed Cations in the Na\textsubscript {V}Ab Pore}{103}{subsection.5.3.4}
+\defcounter {refsection}{13}\relax 
+\contentsline {subsection}{\numberline {5.3.5}Solvation of Na$^+$ and K$^+$ During Permeation}{104}{subsection.5.3.5}
+\defcounter {refsection}{13}\relax 
+\contentsline {subsection}{\numberline {5.3.6}Effect of conformational isomerization of E177 on cation binding and mobility }{108}{subsection.5.3.6}
+\defcounter {refsection}{13}\relax 
+\contentsline {subsection}{\numberline {5.3.7}Effect of Glu to Asp mutation on cation binding}{110}{subsection.5.3.7}
+\defcounter {refsection}{13}\relax 
+\contentsline {subsection}{\numberline {5.3.8}Effect of E177 protonation}{113}{subsection.5.3.8}
+\defcounter {refsection}{13}\relax 
+\contentsline {section}{\numberline {5.4}Discussion}{114}{section.5.4}
+\defcounter {refsection}{13}\relax 
+\contentsline {subsection}{\numberline {5.4.1}Molecular Mechanism of Na$^+$ Selectivity}{114}{subsection.5.4.1}
+\defcounter {refsection}{13}\relax 
+\contentsline {subsection}{\numberline {5.4.2}Model Limitations}{117}{subsection.5.4.2}
+\defcounter {refsection}{13}\relax 
+\contentsline {subsection}{\numberline {5.4.3}Comparison to Previous Computational and Experimental Studies}{117}{subsection.5.4.3}
+\defcounter {refsection}{13}\relax 
+\contentsline {section}{\numberline {5.5}Methods}{118}{section.5.5}
+\defcounter {refsection}{13}\relax 
+\contentsline {subsection}{\numberline {5.5.1}Molecular Modelling and Simulation}{118}{subsection.5.5.1}
+\defcounter {refsection}{13}\relax 
+\contentsline {subsection}{\numberline {5.5.2}Analysis}{121}{subsection.5.5.2}
+\defcounter {refsection}{13}\relax 
+\contentsline {section}{\numberline {5.6}References}{123}{section.5.6}
+\defcounter {refsection}{14}\relax 
+\contentsline {chapter}{\numberline {6}Mutations Involving Glutamic Acid Sidechains Modulate Na$^+$ Conduction}{129}{chapter.6}
+\defcounter {refsection}{15}\relax 
+\contentsline {section}{\numberline {6.1}Summary}{130}{section.6.1}
+\defcounter {refsection}{15}\relax 
+\contentsline {section}{\numberline {6.2}Introduction}{131}{section.6.2}
+\defcounter {refsection}{15}\relax 
+\contentsline {section}{\numberline {6.3}Results}{132}{section.6.3}
+\defcounter {refsection}{15}\relax 
+\contentsline {section}{\numberline {6.4}Discussion}{143}{section.6.4}
+\defcounter {refsection}{15}\relax 
+\contentsline {section}{\numberline {6.5}Methods}{144}{section.6.5}
+\defcounter {refsection}{15}\relax 
+\contentsline {section}{\numberline {6.6}References}{145}{section.6.6}
+\defcounter {refsection}{16}\relax 
+\contentsline {chapter}{\numberline {7}Structures of closed and open states of the sodium channel Na\textsubscript {V}Ab}{148}{chapter.7}
+\defcounter {refsection}{17}\relax 
+\contentsline {section}{\numberline {7.1}Summary}{149}{section.7.1}
+\defcounter {refsection}{17}\relax 
+\contentsline {section}{\numberline {7.2}Introduction}{149}{section.7.2}
+\defcounter {refsection}{17}\relax 
+\contentsline {section}{\numberline {7.3}Results}{150}{section.7.3}
+\defcounter {refsection}{17}\relax 
+\contentsline {subsection}{\numberline {7.3.1}NaVAb/1-226, a Mutant Captured in an Open State}{150}{subsection.7.3.1}
+\defcounter {refsection}{17}\relax 
+\contentsline {section}{\numberline {7.4}Discussion}{158}{section.7.4}
+\defcounter {refsection}{17}\relax 
+\contentsline {subsection}{\numberline {7.4.1}S6 Mutations Reveal the Structure of NaVAb's Intracellular CTD}{158}{subsection.7.4.1}
+\defcounter {refsection}{17}\relax 
+\contentsline {subsection}{\numberline {7.4.2}Closed States of the Pore}{158}{subsection.7.4.2}
+\defcounter {refsection}{17}\relax 
+\contentsline {subsection}{\numberline {7.4.3}Open State of the Pore}{159}{subsection.7.4.3}
+\defcounter {refsection}{17}\relax 
+\contentsline {subsection}{\numberline {7.4.4}Gating of Cation Permeation by Hydrophobic Collapse}{160}{subsection.7.4.4}
+\defcounter {refsection}{17}\relax 
+\contentsline {subsection}{\numberline {7.4.5}Implications for State-Dependent Drug Binding}{161}{subsection.7.4.5}
+\defcounter {refsection}{17}\relax 
+\contentsline {subsection}{\numberline {7.4.6}Refining the Closed-Open-Inactivated Model for NavAb}{161}{subsection.7.4.6}
+\defcounter {refsection}{17}\relax 
+\contentsline {subsection}{\numberline {7.4.7}Comparison with Gating of Eukaryotic NaV Channels}{162}{subsection.7.4.7}
+\defcounter {refsection}{17}\relax 
+\contentsline {section}{\numberline {7.5}Methods}{163}{section.7.5}
+\defcounter {refsection}{17}\relax 
+\contentsline {section}{\numberline {7.6}References}{164}{section.7.6}
+\defcounter {refsection}{18}\relax 
+\contentsline {chapter}{\numberline {8}Structural basis for gating pore current in periodic paralysis}{169}{chapter.8}
+\defcounter {refsection}{19}\relax 
+\contentsline {section}{\numberline {8.1}Summary}{170}{section.8.1}
+\defcounter {refsection}{19}\relax 
+\contentsline {section}{\numberline {8.2}Introduction}{170}{section.8.2}
+\defcounter {refsection}{19}\relax 
+\contentsline {section}{\numberline {8.3}Results}{171}{section.8.3}
+\defcounter {refsection}{19}\relax 
+\contentsline {section}{\numberline {8.4}Discussion}{178}{section.8.4}
+\defcounter {refsection}{19}\relax 
+\contentsline {section}{\numberline {8.5}Methods}{178}{section.8.5}
+\defcounter {refsection}{19}\relax 
+\contentsline {section}{\numberline {8.6}References}{180}{section.8.6}
+\defcounter {refsection}{20}\relax 
+\contentsline {chapter}{\numberline {9}Primary Contributions and Outlook}{184}{chapter.9}
+\defcounter {refsection}{21}\relax 
+\contentsline {section}{\numberline {9.1}Conduction}{184}{section.9.1}
+\defcounter {refsection}{21}\relax 
+\contentsline {section}{\numberline {9.2}Selectivity}{186}{section.9.2}
+\defcounter {refsection}{21}\relax 
+\contentsline {section}{\numberline {9.3}Gating}{188}{section.9.3}
+\defcounter {refsection}{21}\relax 
+\contentsline {section}{\numberline {9.4}Disease}{189}{section.9.4}
+\defcounter {refsection}{21}\relax 
+\contentsline {section}{\numberline {9.5}Outlook}{190}{section.9.5}
+\defcounter {refsection}{21}\relax 
+\contentsline {section}{\numberline {9.6}References}{191}{section.9.6}

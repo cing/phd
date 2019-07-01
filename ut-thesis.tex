@@ -1,0 +1,333 @@
+%% ut-thesis.tex -- document template for graduate theses at UofT
+%%
+%% Copyright (c) 1998-2013 Francois Pitt <fpitt@cs.utoronto.ca>
+%% last updated at 16:20 (EDT) on Wed 25 Sep 2013
+%%
+%% This work may be distributed and/or modified under the conditions of
+%% the LaTeX Project Public License, either version 1.3c of this license
+%% or (at your option) any later version.
+%% The latest version of this license is in
+%%     http://www.latex-project.org/lppl.txt
+%% and version 1.3c or later is part of all distributions of LaTeX
+%% version 2005/12/01 or later.
+%%
+%% This work has the LPPL maintenance status "maintained".
+%%e
+%% The Current Maintainer of this work is
+%% Francois Pitt <fpitt@cs.utoronto.ca>.
+%%
+%% This work consists of the files listed in the accompanying README.
+
+%% SUMMARY OF FEATURES:
+%%
+%% All environments, commands, and options provided by the `ut-thesis'
+%% class will be described below, at the point where they should appear
+%% in the document.  See the file `ut-thesis.cls' for more details.
+%%
+%% To explicitly set the pagestyle of any blank page inserted with
+%% \cleardoublepage, use one of \clearemptydoublepage,
+%% \clearplaindoublepage, \clearthesisdoublepage, or
+%% \clearstandarddoublepage (to use the style currently in effect).
+%%
+%% For single-spaced quotes or quotations, use the `longquote' and
+%% `longquotation' environments.
+
+
+%%%%%%%%%%%%         PREAMBLE         %%%%%%%%%%%%
+
+%%  - Default settings format a final copy (single-sided, normal
+%%    margins, one-and-a-half-spaced with single-spaced notes).
+%%  - For a rough copy (double-sided, normal margins, double-spaced,
+%%    with the word "DRAFT" printed at each corner of every page), use
+%%    the `draft' option.
+%%  - The default global line spacing can be changed with one of the
+%%    options `singlespaced', `onehalfspaced', or `doublespaced'.
+%%  - Footnotes and marginal notes are all single-spaced by default, but
+%%    can be made to have the same spacing as the rest of the document
+%%    by using the option `standardspacednotes'.
+%%  - The size of the margins can be changed with one of the options:
+%%     . `narrowmargins' (1 1/4" left, 3/4" others),
+%%     . `normalmargins' (1 1/4" left, 1" others),
+%%     . `widemargins' (1 1/4" all),
+%%     . `extrawidemargins' (1 1/2" all).
+%%  - The pagestyle of "cleared" pages (empty pages inserted in
+%%    two-sided documents to put the next page on the right-hand side)
+%%    can be set with one of the options `cleardoublepagestyleempty',
+%%    `cleardoublepagestyleplain', or `cleardoublepagestylestandard'.
+%%  - Any other standard option for the `report' document class can be
+%%    used to override the default or draft settings (such as `10pt',
+%%    `11pt', `12pt'), and standard LaTeX packages can be used to
+%%    further customize the layout and/or formatting of the document.
+
+%% *** Add any desired options. ***
+\pdfpageattr {/Group << /S /Transparency /I true /CS /DeviceRGB>>}
+\pdfoptionpdfminorversion 7
+
+\documentclass[doublespaced]{ut-thesis}
+
+%% *** Add \usepackage declarations here. ***
+%% The standard packages `geometry' and `setspace' are already loaded by
+%% `ut-thesis' -- see their documentation for details of the features
+%% they provide.  In particular, you may use the \geometry command here
+%% to adjust the margins if none of the ut-thesis options are suitable
+%% (see the `geometry' package for details).  You may also use the
+%% \setstretch command to set the line spacing to a value other than
+%% single, one-and-a-half, or double spaced (see the `setspace' package
+%% for details).
+
+%\usepackage[numbers,comma,sort&compress]{natbib}
+%\usepackage[rightcaption]{sidecap}
+%\usepackage[labelfont=bf]{caption}
+%\usepackage{graphicx} %package to manage images
+%\usepackage{booktabs}% http://ctan.org/pkg/booktabs
+%\usepackage{colortbl}% http://ctan.org/pkg/colortbl
+%\usepackage{amsmath}% http://ctan.org/pkg/amsmath
+%\usepackage{xcolor}% http://ctan.org/pkg/xcolor
+%\usepackage{natbib}
+%\usepackage{chapterbib}
+%\usepackage{hyperref}
+%\usepackage[backend=bibtex]{biblatex}
+%\usepackage[numbers,comma,sort&compress]{natbib}
+
+
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage[english]{babel}
+\usepackage{hyperref}
+ \usepackage[strings]{underscore}
+ 
+\usepackage[
+backend=biber,
+style=phys,
+hyperref=true,
+%refsegment=chapter,
+refsection=chapter,
+sorting=none
+]{biblatex}
+\addbibresource{ut-thesis.bib}
+
+\usepackage[rightcaption]{sidecap}
+\usepackage[labelfont=bf]{caption}
+\usepackage{graphicx} %package to manage images
+\usepackage{booktabs}
+\usepackage{cleveref}[capitalize]
+%\usepackage{gensymb} %for degree symbol only?
+\usepackage{threeparttable}% http://ctan.org/pkg/booktabs
+\usepackage{colortbl}% http://ctan.org/pkg/colortbl
+\usepackage{amsmath}% http://ctan.org/pkg/amsmath
+\usepackage{xcolor}% http://ctan.org/pkg/xcolor
+
+\newcommand{\beginsupplement}{%
+        \setcounter{table}{0}
+        \renewcommand{\thetable}{S\arabic{table}}%
+        \setcounter{figure}{0}
+        \renewcommand{\thefigure}{S\arabic{figure}}%
+     }
+\newcommand{\angstrom }{\textup{\AA}} % Angstrom shorthand
+\colorlet{tableheadcolor}{gray!25} % Table header colour = 25% gray
+\newcommand{\headcol}{\rowcolor{tableheadcolor}} %
+\colorlet{tablerowcolor}{gray!10} % Table row separator colour = 10% gray
+\newcommand{\rowcol}{\rowcolor{tablerowcolor}} %
+    % Command \topline consists of a (slightly modified) \toprule followed by a \heavyrule rule of colour tableheadcolor (hence, 2 separate rules)
+\newcommand{\topline}{\arrayrulecolor{black}\specialrule{0.1em}{\abovetopsep}{0pt}%
+            \arrayrulecolor{tableheadcolor}\specialrule{\belowrulesep}{0pt}{0pt}%
+            \arrayrulecolor{black}}
+    % Command \midline consists of 3 rules (top colour tableheadcolor, middle colour black, bottom colour white)
+\newcommand{\midline}{\arrayrulecolor{tableheadcolor}\specialrule{\aboverulesep}{0pt}{0pt}%
+            \arrayrulecolor{black}\specialrule{\lightrulewidth}{0pt}{0pt}%
+            \arrayrulecolor{white}\specialrule{\belowrulesep}{0pt}{0pt}%
+            \arrayrulecolor{black}}
+    % Command \rowmidlinecw consists of 3 rules (top colour tablerowcolor, middle colour black, bottom colour white)
+\newcommand{\rowmidlinecw}{\arrayrulecolor{tablerowcolor}\specialrule{\aboverulesep}{0pt}{0pt}%
+            \arrayrulecolor{black}\specialrule{\lightrulewidth}{0pt}{0pt}%
+            \arrayrulecolor{white}\specialrule{\belowrulesep}{0pt}{0pt}%
+            \arrayrulecolor{black}}
+    % Command \rowmidlinewc consists of 3 rules (top colour white, middle colour black, bottom colour tablerowcolor)
+\newcommand{\rowmidlinewc}{\arrayrulecolor{white}\specialrule{\aboverulesep}{0pt}{0pt}%
+            \arrayrulecolor{black}\specialrule{\lightrulewidth}{0pt}{0pt}%
+            \arrayrulecolor{tablerowcolor}\specialrule{\belowrulesep}{0pt}{0pt}%
+            \arrayrulecolor{black}}
+    % Command \rowmidlinew consists of 1 white rule
+\newcommand{\rowmidlinew}{\arrayrulecolor{white}\specialrule{\aboverulesep}{0pt}{0pt}%
+            \arrayrulecolor{black}}
+    % Command \rowmidlinec consists of 1 tablerowcolor rule
+\newcommand{\rowmidlinec}{\arrayrulecolor{tablerowcolor}\specialrule{\aboverulesep}{0pt}{0pt}%
+            \arrayrulecolor{black}}
+    % Command \bottomline consists of 2 rules (top colour
+\newcommand{\bottomline}{\arrayrulecolor{white}\specialrule{\aboverulesep}{0pt}{0pt}%
+            \arrayrulecolor{black}\specialrule{\heavyrulewidth}{0pt}{\belowbottomsep}}%
+\newcommand{\bottomlinec}{\arrayrulecolor{tablerowcolor}\specialrule{\aboverulesep}{0pt}{0pt}%
+            \arrayrulecolor{black}\specialrule{\heavyrulewidth}{0pt}{\belowbottomsep}}%
+         
+
+% Weird unicode in a reference that I can't find!
+\DeclareUnicodeCharacter{301}{I}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%                                                                    %%
+%%                   ***   I M P O R T A N T   ***                    %%
+%%                                                                    %%
+%%  Fill in the following fields with the required information:       %%
+%%   - \degree{...}       name of the degree obtained                 %%
+%%   - \department{...}   name of the graduate department             %%
+%%   - \gradyear{...}     year of graduation                          %%
+%%   - \author{...}       name of the author                          %%
+%%   - \title{...}        title of the thesis                         %%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%% *** Change this example to appropriate values. ***
+\degree{Doctor of Philosophy}
+\department{Biochemistry}
+\gradyear{2019}
+\author{Christopher Ing}
+\title{Ion Permeation and Selectivity in Voltage-gated Sodium Channels}
+
+%% *** NOTE ***
+%% Put here all other formatting commands that belong in the preamble.
+%% In particular, you should put all of your \newcommand's,
+%% \newenvironment's, \newtheorem's, etc. (in other words, all the
+%% global definitions that you will need throughout your thesis) in a
+%% separate file and use "\input{filename}" to input it here.
+
+
+%% *** Adjust the following settings as desired. ***
+
+%% List only down to subsections in the table of contents;
+%% 0=chapter, 1=section, 2=subsection, 3=subsubsection, etc.
+\setcounter{tocdepth}{2}
+
+%% Make each page fill up the entire page.
+\flushbottom
+
+
+%%%%%%%%%%%%      MAIN  DOCUMENT      %%%%%%%%%%%%
+
+\begin{document}
+
+%% This sets the page style and numbering for preliminary sections.
+\begin{preliminary}
+
+%% This generates the title page from the information given above.
+\maketitle
+
+%% There should be NOTHING between the title page and abstract.
+%% However, if your document is two-sided and you want the abstract
+%% _not_ to appear on the back of the title page, then uncomment the
+%% following line.
+\cleardoublepage
+\newpage
+
+%% This generates the abstract page, with the line spacing adjusted
+%% according to SGS guidelines.
+\begin{abstract}
+
+%% (At most 150 words for M.Sc. or 350 words for Ph.D.)
+
+Voltage-gated sodium channels are responsible for the initiation and propagation of electrical signals in living organisms. Though the function of these channels are well-described in humans, many questions remain at the microscopic level with respect to the relationship between their structure, function, and connection to human health and disease. The elucidation of high-resolution structures of sodium channels enables the use of computational models to connect microscopic biophysical measurements to macroscopic experimental observables. In this work, we present extensive molecular dynamics studies of the bacterial voltage-gated sodium channel Na\textsubscript{V}Ab to examine the molecular basis for four key mechanisms underlying the generation of action potentials in excitable cells; ionic conduction, selectivity, gating, and leakage. Our simulations support a molecular mechanism for ionic conduction involving a strong coupling between the conformational isomerization (dunking) of glutamic acid sidechains and ionic conduction. We determined single-point mutations which modulate dunking and ionic conduction and enable experimental validation of this hypothesis. Building on this mechanism, we present a model for Na$^+$ selectivity over K$^+$ in Na\textsubscript{V}Ab that results from differences in ionic desolvation penalties within the selectivity filter (SF) and the capability of channel fluctuations to facilitate multi-ion occupancy. The presence of three ions within the SF results in a diffusive free-energy landscape for Na$^+$ whereas K$^+$ conduction is comparatively restricted. We describe a mechanism for Na$^+$ permeation at the intracellular gate wherein fluctuations between a wetted and dewetted state modulate the free-energy of  conduction in this region. Lastly, we studied the molecular basis of Na$^+$ leakage in the voltage-sensor of Na\textsubscript{V}Ab with analogous mutations linked to the hereditary disease periodic paralysis. Molecular simulations reveal a decrease in the free-energy barrier opposing Na$^+$ permeation within the voltage sensor consistent with leakage, providing a structural basis for this disease that may facilitate treatment. Throughout this work, we quantify and compare the relationship between ionic desolvation and free-energy of ion conduction. Our studies have broad implications for understanding ion transport and permeation across the larger family of ion channels and have relevance to the treatment of patients suffering from diseases that result from abnormal function of channels.
+
+%We perform multiple simulation repeats of the voltage-gated sodium channel and examine reversible diffusion of ions through the pore in the absence of a membrane potential. 
+
+\end{abstract}
+
+%% Anything placed between the abstract and table of contents will
+%% appear on a separate page since the abstract ends with \newpage and
+%% the table of contents starts with \clearpage.  Use \cleardoublepage
+%% for anything that you want to appear on a right-hand page.
+
+%% This generates a "dedication" section, if needed -- just a paragraph
+%% formatted flush right (uncomment to have it appear in the document).
+\begin{dedication}
+Dedicated to Jack Ksenych.
+\end{dedication}
+
+%% The `dedication' and `acknowledgements' sections do not create new
+%% pages so if you want the two sections to appear on separate pages,
+%% uncomment the following line.
+\newpage  % separate pages for dedication and acknowledgements
+
+%% Alternatively, if you leave both on the same page, it is probably a
+%% good idea to add a bit of extra vertical space in between the two --
+%% for example, as follows (adjust as desired).
+%\vspace{.5in}  % vertical space between dedication and acknowledgements
+
+%% This generates an "acknowledgements" section, if needed
+%% (uncomment to have it appear in the document).
+\begin{acknowledgements}
+I thank my friends, family, colleagues, and supervisor for supporting me during my research over the past six years. I extend my gratitude to Dr. R\'egis Pom\`es for supporting me through the trials and tribulations of academia and providing a platform to explore my research interests without limitation. Being able to count on you at any time for research inspiration, damage control, handling delicate negotiations with collaborators, mastery of the English language, cycling tips, rants about peer-review, and occasionally a few good jokes, made my PhD a pleasure for the entire duration.
+
+I'm appreciative to all the Pom\`es laboratory members who I was fortunate to cross paths with, learn from, laugh with, and to help educate. It has been a pleasure to work with Richard Banh, Jingjing Huang, Quang Huynh, Zhi Zheng, Anna Liang, Ananya Srivastava, Fangwei Cheng, and Howard Wu on a small component of each their respective projects, providing me with great satisfaction to squash their (sometimes) mind-bending Python bugs. I'm indebted to the previous generation of  Pom\`es lab members from the ``original'' SickKids office who showed me the ropes of performing simulations and data analysis; including Chris Neale, Loan Huynh, Aditi Ramesh, Ellen Li, Sarah Rauscher, Kethika Kulleperuma, Grace Li, John Holyoake, Zhuyi Xue, David Caplan, and Nilmadhab Chakrabarti. 
+
+Without Nilu Chakrabarti, this thesis would not exist. I'm extremely grateful to have had the opportunity to work closely with Nilu and have the privilege to call him my friend. When I first joined the lab to work on cytochrome c oxidase, I was immediately drawn to Nilu's work on sodium channels and I only spent a short time `consulting' for him on custom analysis scripts before he gave me his full support as a co-author and collaborator, which drove me to select sodium channels as the topic of my thesis. We worked together on a daily basis for several years before his passing in 2015. Nilu imparted a strong motivation for curiosity-driven research that gave me the confidence to conduct many independent projects outside of voltage-gated sodium channels, something that continues to propel me forward as a scientist.
+
+The Na\textsubscript{V}Ab project was based on a connection that Nilu formed with Jian Payanadeh, that connected us to Bill Catterall, Ning Zheng, Tamer Gamal El-Din, and the rest of the Catterall and Zheng labs. I'm appreciative to Bill for being open to our computational studies, especially in light of some of the seemingly `contradictory` findings they can occasionally produce depending on force field choice. Working with experts in the field of electrophysiology, pharmacology, and X-ray crystallography, was invaluable for broadening my understanding of biophysics and placing molecular simulations in the greater context of ion channel research. It goes without saying that without the support of Compute Canada, particularly the staff at SciNet (Danny Gruner, Scott Northrup, Ching-Hsing Yu, Jaime Pinto), CalculQuebec (Maxime Boissonneault), ACENet (Oliver Stueker), and WestGrid (Doug Phillips), the molecular simulations in this work would not be possible (thank you Canadian tax-payers). A special thanks goes to Harald Pfieiffer of the Canadian Institute for Theoretical Astrophysics for obtaining funding for the Gravity GPU cluster, for which I kept backlogged with compute jobs to obtain near 100\% utilization until the day of its decommissioning.
+
+A great deal of time spent performing research and writing this thesis was made possible by the continuous support of my loving partner Brittany Heath. Thank you for providing me with life sustaining meals, mandatory distractions, financial support, and a shoulder to cry on when my simulations needed to be rebuilt and rerun countless times. The same should be said about my unconditionally supportive family; Sandi, Doug, Ron, Ed, Jessica, Jesse, Jack, Ayla, and Lily. I'm thankful to my Mom and grandfather Jack for giving me the opportunity to experiment with and eventually own a computer at a young age, which led me on this path. With sadness, I thank my father Doug for supporting me through my scientific studies and continuing to inquire about my research as his health worsened in his battle with cancer. 
+
+On a lighter note, I'd like to end by thanking the fuzziest cutest feline named Cateen, for giving me continuous lap warmth during the late nights of hacking.
+
+\end{acknowledgements}
+
+%% This generates the Table of Contents (on a separate page).
+\tableofcontents
+
+%% This generates the List of Tables (on a separate page), if needed
+%% (uncomment to have it appear in the document).
+\cleardoublepage
+\phantomsection
+\addcontentsline{toc}{chapter}{\listtablename}
+\listoftables
+
+%% This generates the List of Figures (on a separate page), if needed
+%% (uncomment to have it appear in the document).
+\cleardoublepage
+\phantomsection
+\addcontentsline{toc}{chapter}{\listfigurename}
+\listoffigures
+
+%% You can add commands here to generate any other material that belongs
+%% in the head matter (for example, List of Plates, Index of Symbols, or
+%% List of Appendices).
+
+%% End of the preliminary sections: reset page style and numbering.
+\end{preliminary}
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%  Put your Chapters here; the easiest way to do this is to keep     %%
+%%  each chapter in a separate file and `\include' all the files.     %%
+%%  Each chapter file should start with "\chapter{ChapterName}".      %%
+%%  Note that using `\include' instead of `\input' will make each     %%
+%%  chapter start on a new page, and allow you to format only parts   %%
+%%  of your thesis at a time by using `\includeonly'.                 %%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%% *** Include chapter files here. ***
+\include{introduction/introduction}
+\include{methodology/methodology}
+\include{nav1/nav_1}
+\include{navreview/nav_review}
+\include{nav2/nav_2}
+\include{nav6/nav_6}
+\include{navopen/nav_open}
+\include{navvsd/navvsd}
+\include{outlook/outlook}
+
+%% This adds a line for the Bibliography in the Table of Contents.
+\addcontentsline{toc}{chapter}{Bibliography}
+%% *** Set the bibliography style. ***
+%% (change according to your preference/requirements)
+%%\bibliographystyle{plain}
+%\bibliographystyle{unsrt}
+%% *** Set the bibliography file. ***
+%% ("thesis.bib" by default; change as needed)
+%\bibliography{ut-thesis}
+%\addbibresource{ut-thesis}
+%\printbibliography
+
+%% *** NOTE ***
+%% If you don't use bibliography files, comment out the previous line
+%% and use \begin{thebibliography}...\end{thebibliography}.  (In that
+%% case, you should probably put the bibliography in a separate file and
+%% `\include' or `\input' it here).
+
+\end{document}

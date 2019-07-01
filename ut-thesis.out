@@ -1,0 +1,107 @@
+\BOOKMARK [0][-]{section*.4}{List of Tables}{}% 1
+\BOOKMARK [0][-]{section*.6}{List of Figures}{}% 2
+\BOOKMARK [0][-]{chapter.1}{Introduction}{}% 3
+\BOOKMARK [1][-]{section.1.1}{Enzymes of Early Life}{chapter.1}% 4
+\BOOKMARK [1][-]{section.1.2}{Physiological Role of Ion Channels and Disease}{chapter.1}% 5
+\BOOKMARK [1][-]{section.1.3}{Voltage-gated Ion Channel Structure and Function}{chapter.1}% 6
+\BOOKMARK [2][-]{subsection.1.3.1}{Voltage-gated Ion Channel Structures}{section.1.3}% 7
+\BOOKMARK [2][-]{subsection.1.3.2}{Voltage-gated Ion Channel Selectivity Filters}{section.1.3}% 8
+\BOOKMARK [2][-]{subsection.1.3.3}{Classification of Sodium Channel Structures}{section.1.3}% 9
+\BOOKMARK [1][-]{section.1.4}{Molecular Mechanisms of Permeation and Selectivity}{chapter.1}% 10
+\BOOKMARK [1][-]{section.1.5}{Thesis Contributions and Organization}{chapter.1}% 11
+\BOOKMARK [1][-]{section.1.6}{References}{chapter.1}% 12
+\BOOKMARK [0][-]{chapter.2}{Methodology}{}% 13
+\BOOKMARK [1][-]{section.2.1}{Statistical Mechanics}{chapter.2}% 14
+\BOOKMARK [1][-]{section.2.2}{Molecular Dynamics}{chapter.2}% 15
+\BOOKMARK [1][-]{section.2.3}{Simulation Protocol}{chapter.2}% 16
+\BOOKMARK [1][-]{section.2.4}{Umbrella Sampling}{chapter.2}% 17
+\BOOKMARK [1][-]{section.2.5}{References}{chapter.2}% 18
+\BOOKMARK [0][-]{chapter.3}{Catalysis of Na+ Permeation in the Bacterial Sodium Channel NaVAb}{}% 19
+\BOOKMARK [1][-]{section.3.1}{Summary}{chapter.3}% 20
+\BOOKMARK [1][-]{section.3.2}{Introduction}{chapter.3}% 21
+\BOOKMARK [1][-]{section.3.3}{Results and Discussion}{chapter.3}% 22
+\BOOKMARK [2][-]{subsection.3.3.1}{Na+ movement}{section.3.3}% 23
+\BOOKMARK [2][-]{subsection.3.3.2}{Solvation, Binding, and Energetics of Na+ in the Selectivity Filter}{section.3.3}% 24
+\BOOKMARK [2][-]{subsection.3.3.3}{Mechanism and Kinetics of Ion Translocation}{section.3.3}% 25
+\BOOKMARK [2][-]{subsection.3.3.4}{Coupling of Channel Structure and Dynamics to Na+ Permeation}{section.3.3}% 26
+\BOOKMARK [2][-]{subsection.3.3.5}{A Multi-state Knock-on Mechanism for Na+ Permeation in NaVAb}{section.3.3}% 27
+\BOOKMARK [1][-]{section.3.4}{Methods}{chapter.3}% 28
+\BOOKMARK [1][-]{section.3.5}{References}{chapter.3}% 29
+\BOOKMARK [0][-]{chapter.4}{Simulation Studies of Ion Permeation and Selectivity in Nav Channels}{}% 30
+\BOOKMARK [1][-]{section.4.1}{Summary}{chapter.4}% 31
+\BOOKMARK [1][-]{section.4.2}{Introduction}{chapter.4}% 32
+\BOOKMARK [1][-]{section.4.3}{Molecular Simulations of Sodium Channels}{chapter.4}% 33
+\BOOKMARK [2][-]{subsection.4.3.1}{Channel Model and Force Field}{section.4.3}% 34
+\BOOKMARK [2][-]{subsection.4.3.2}{Sampling Technique}{section.4.3}% 35
+\BOOKMARK [1][-]{section.4.4}{Ion Binding and Permeation in Nav Channels}{chapter.4}% 36
+\BOOKMARK [2][-]{subsection.4.4.1}{Biased Simulations }{section.4.4}% 37
+\BOOKMARK [2][-]{subsection.4.4.2}{Unbiased Equilibrium Simulations}{section.4.4}% 38
+\BOOKMARK [2][-]{subsection.4.4.3}{Unbiased Non-equilibrium Simulations}{section.4.4}% 39
+\BOOKMARK [2][-]{subsection.4.4.4}{Protonation Studies}{section.4.4}% 40
+\BOOKMARK [1][-]{section.4.5}{Ionic selectivity of Nav channels}{chapter.4}% 41
+\BOOKMARK [2][-]{subsection.4.5.1}{Studies of selectivity over K+ using biased sampling}{section.4.5}% 42
+\BOOKMARK [2][-]{subsection.4.5.2}{Studies of selectivity over K+ using unbiased sampling}{section.4.5}% 43
+\BOOKMARK [2][-]{subsection.4.5.3}{Studies of selectivity over Ca2+ using unbiased and biased sampling}{section.4.5}% 44
+\BOOKMARK [2][-]{subsection.4.5.4}{Studies of selectivity over Ca2+ using quantum calculations}{section.4.5}% 45
+\BOOKMARK [1][-]{section.4.6}{Critical Discussion}{chapter.4}% 46
+\BOOKMARK [2][-]{subsection.4.6.1}{Consensus Findings}{section.4.6}% 47
+\BOOKMARK [2][-]{subsection.4.6.2}{Divergent Findings}{section.4.6}% 48
+\BOOKMARK [2][-]{subsection.4.6.3}{Sources of Discrepancy }{section.4.6}% 49
+\BOOKMARK [1][-]{section.4.7}{Perspectives}{chapter.4}% 50
+\BOOKMARK [1][-]{section.4.8}{References}{chapter.4}% 51
+\BOOKMARK [0][-]{chapter.5}{Multi-ion Effects and Na+ Selectivity over K+ in Sodium Channel NaVAb}{}% 52
+\BOOKMARK [1][-]{section.5.1}{Summary}{chapter.5}% 53
+\BOOKMARK [1][-]{section.5.2}{Introduction}{chapter.5}% 54
+\BOOKMARK [1][-]{section.5.3}{Results}{chapter.5}% 55
+\BOOKMARK [2][-]{subsection.5.3.1}{Na+ and K+ Ions in the NaVAb Pore}{section.5.3}% 56
+\BOOKMARK [2][-]{subsection.5.3.2}{Conformational Isomerization of Glu side chains}{section.5.3}% 57
+\BOOKMARK [2][-]{subsection.5.3.3}{Free Energy of Ion Permeation in the SF}{section.5.3}% 58
+\BOOKMARK [2][-]{subsection.5.3.4}{Mixed Cations in the NaVAb Pore}{section.5.3}% 59
+\BOOKMARK [2][-]{subsection.5.3.5}{Solvation of Na+ and K+ During Permeation}{section.5.3}% 60
+\BOOKMARK [2][-]{subsection.5.3.6}{Effect of conformational isomerization of E177 on cation binding and mobility }{section.5.3}% 61
+\BOOKMARK [2][-]{subsection.5.3.7}{Effect of Glu to Asp mutation on cation binding}{section.5.3}% 62
+\BOOKMARK [2][-]{subsection.5.3.8}{Effect of E177 protonation}{section.5.3}% 63
+\BOOKMARK [1][-]{section.5.4}{Discussion}{chapter.5}% 64
+\BOOKMARK [2][-]{subsection.5.4.1}{Molecular Mechanism of Na+ Selectivity}{section.5.4}% 65
+\BOOKMARK [2][-]{subsection.5.4.2}{Model Limitations}{section.5.4}% 66
+\BOOKMARK [2][-]{subsection.5.4.3}{Comparison to Previous Computational and Experimental Studies}{section.5.4}% 67
+\BOOKMARK [1][-]{section.5.5}{Methods}{chapter.5}% 68
+\BOOKMARK [2][-]{subsection.5.5.1}{Molecular Modelling and Simulation}{section.5.5}% 69
+\BOOKMARK [2][-]{subsection.5.5.2}{Analysis}{section.5.5}% 70
+\BOOKMARK [1][-]{section.5.6}{References}{chapter.5}% 71
+\BOOKMARK [0][-]{chapter.6}{Mutations Involving Glutamic Acid Sidechains Modulate Na+ Conduction}{}% 72
+\BOOKMARK [1][-]{section.6.1}{Summary}{chapter.6}% 73
+\BOOKMARK [1][-]{section.6.2}{Introduction}{chapter.6}% 74
+\BOOKMARK [1][-]{section.6.3}{Results}{chapter.6}% 75
+\BOOKMARK [1][-]{section.6.4}{Discussion}{chapter.6}% 76
+\BOOKMARK [1][-]{section.6.5}{Methods}{chapter.6}% 77
+\BOOKMARK [1][-]{section.6.6}{References}{chapter.6}% 78
+\BOOKMARK [0][-]{chapter.7}{Structures of closed and open states of the sodium channel NaVAb}{}% 79
+\BOOKMARK [1][-]{section.7.1}{Summary}{chapter.7}% 80
+\BOOKMARK [1][-]{section.7.2}{Introduction}{chapter.7}% 81
+\BOOKMARK [1][-]{section.7.3}{Results}{chapter.7}% 82
+\BOOKMARK [2][-]{subsection.7.3.1}{NaVAb/1-226, a Mutant Captured in an Open State}{section.7.3}% 83
+\BOOKMARK [1][-]{section.7.4}{Discussion}{chapter.7}% 84
+\BOOKMARK [2][-]{subsection.7.4.1}{S6 Mutations Reveal the Structure of NaVAb's Intracellular CTD}{section.7.4}% 85
+\BOOKMARK [2][-]{subsection.7.4.2}{Closed States of the Pore}{section.7.4}% 86
+\BOOKMARK [2][-]{subsection.7.4.3}{Open State of the Pore}{section.7.4}% 87
+\BOOKMARK [2][-]{subsection.7.4.4}{Gating of Cation Permeation by Hydrophobic Collapse}{section.7.4}% 88
+\BOOKMARK [2][-]{subsection.7.4.5}{Implications for State-Dependent Drug Binding}{section.7.4}% 89
+\BOOKMARK [2][-]{subsection.7.4.6}{Refining the Closed-Open-Inactivated Model for NavAb}{section.7.4}% 90
+\BOOKMARK [2][-]{subsection.7.4.7}{Comparison with Gating of Eukaryotic NaV Channels}{section.7.4}% 91
+\BOOKMARK [1][-]{section.7.5}{Methods}{chapter.7}% 92
+\BOOKMARK [1][-]{section.7.6}{References}{chapter.7}% 93
+\BOOKMARK [0][-]{chapter.8}{Structural basis for gating pore current in periodic paralysis}{}% 94
+\BOOKMARK [1][-]{section.8.1}{Summary}{chapter.8}% 95
+\BOOKMARK [1][-]{section.8.2}{Introduction}{chapter.8}% 96
+\BOOKMARK [1][-]{section.8.3}{Results}{chapter.8}% 97
+\BOOKMARK [1][-]{section.8.4}{Discussion}{chapter.8}% 98
+\BOOKMARK [1][-]{section.8.5}{Methods}{chapter.8}% 99
+\BOOKMARK [1][-]{section.8.6}{References}{chapter.8}% 100
+\BOOKMARK [0][-]{chapter.9}{Primary Contributions and Outlook}{}% 101
+\BOOKMARK [1][-]{section.9.1}{Conduction}{chapter.9}% 102
+\BOOKMARK [1][-]{section.9.2}{Selectivity}{chapter.9}% 103
+\BOOKMARK [1][-]{section.9.3}{Gating}{chapter.9}% 104
+\BOOKMARK [1][-]{section.9.4}{Disease}{chapter.9}% 105
+\BOOKMARK [1][-]{section.9.5}{Outlook}{chapter.9}% 106
+\BOOKMARK [1][-]{section.9.6}{References}{chapter.9}% 107
